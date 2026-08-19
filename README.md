@@ -356,8 +356,8 @@ All three models underperformed on the Mathematics category relative to other do
 **F3 — Input variation affects the two Qwen models differently.** 
 Qwen2.5-1.5B shows a monotonic accuracy decline from original to paraphrase to noise conditions, while Qwen2.5-3B returns to its original accuracy under noisy input. This highlights that robustness does not necessarily decrease monotonically with increasing input corruption.
 
-**F4 — Robustness to noise scales with model size.**
-Qwen2.5-3B showed zero accuracy drop under noisy input conditions (0.0%), while Qwen2.5-1.5B dropped by 7.0%. This suggests that larger models within the same family develop stronger noise tolerance, even when overall accuracy is comparable.
+**F4 — Noise robustness differs between model sizes.**
+Qwen2.5-3B showed zero accuracy drop under noisy input conditions (0.0%), while Qwen2.5-1.5B dropped by 7.0%. This suggests that the larger model was more tolerant to the specific noise condition used in this experiment, despite having comparable original accuracy.
 
 **F5 — Standard accuracy benchmarks are insufficient for deployment evaluation.**
 The robustness experiments surface performance gaps that accuracy alone cannot reveal. Two models with identical accuracy on clean inputs can differ substantially in their behavior under imperfect conditions.
