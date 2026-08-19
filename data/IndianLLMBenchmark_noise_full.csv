@@ -1,0 +1,201 @@
+ID,Category,Difficulty,Original_Question,Noisy_Question,Answer
+1,Science,Easy,What is the chemical formula for water?,Wat is teh chemicla forumla for water?,H2O
+2,Science,Easy,Who discovered penicillin?,Hwo discovred penciillin?,Alexander Fleming
+3,Science,Easy,What is the chemical symbol for gold?,Waht is teh chemicla symol for goldd?,Au
+4,Science,Easy,What planet is closest to the Sun?,Waht plannet is closset to teh Sun?,Mercury
+5,Science,Easy,What is the powerhouse of the cell?,Waht is teh powerhuose of teh cell?,Mitochondria
+6,Science,Easy,What gas do plants absorb during photosynthesis?,Waht gaz do plantes absrob druing photosynthesis?,Carbon dioxide (CO2)
+7,Science,Easy,What is the atomic number of carbon?,Waht is teh atomci numbber of carbon?,6
+8,Science,Easy,What is the approximate speed of light in a vacuum?,Waht is teh approxiamate spede of ligth in a vaccum?,"299,792 km/s"
+9,Science,Easy,What is the hardest natural substance on Earth?,Waht is teh hardest naturel substanse on Erth?,Diamond
+10,Science,Easy,What force keeps planets in orbit around the Sun?,Waht fource keeps plannets in orbitt around teh Sun?,Gravity
+11,Science,Easy,What is the chemical symbol for iron?,Waht is teh chemicla symol for iorn?,Fe
+12,Science,Easy,How many bones are in the adult human body?,How meny bonnes are in teh adlut humna body?,206
+13,Science,Easy,What organ produces insulin in the human body?,Waht orgna producse insullin in teh humna body?,Pancreas
+14,Science,Easy,What is the chemical formula for table salt?,Waht is teh chemicla forumla for tabel salt?,NaCl
+15,Science,Easy,What is the chemical symbol for silver?,Waht is teh chemicla symol for sivler?,Ag
+16,Science,Easy,What is the unit of electrical resistance?,Waht is teh unti of electircal resitance?,Ohm
+17,Science,Easy,What is the most abundant gas in Earth's atmosphere?,Waht is teh moost abondant gaz in Eath's atmopshere?,Nitrogen
+18,Science,Easy,Who proposed the theory of general relativity?,Hwo porposed teh thoery of generel relativity?,Albert Einstein
+19,Science,Easy,What is the chemical symbol for potassium?,Waht is teh chemicla symol for potasium?,K
+20,Science,Easy,What is the boiling point of water at sea level in Celsius?,Waht is teh boilng poing of watre at sea levle in Celsius?,100 degrees C
+21,Science,Medium,Which organ in the human body is responsible for filtering blood and producing urine?,Whcih orgna in teh humna body is reponsible for filteirng bllod and producng urine?,Kidney
+22,Science,Medium,Which subatomic particle carries a negative electric charge?,Whcih subatomci particel carreis a negtive electirc charge?,Electron
+23,Science,Medium,What process do cells use to produce energy from glucose without oxygen?,Waht proccess do cells us to prodcue enregy form glucsoe withuot oxygne?,Anaerobic respiration
+24,Science,Medium,Which layer of Earth's atmosphere contains the ozone layer?,Whcih layre of Eath's atmosphree contians teh ozone layar?,Stratosphere
+25,Science,Medium,What type of bond holds the two strands of a DNA double helix together?,Waht typ of bند holsd teh two strands of a DNA dubble helxi togther?,Hydrogen bonds
+26,Science,Medium,Which element has the highest electronegativity on the periodic table?,Whcih elemnt has teh highets electronegatvity on teh periodci tabel?,Fluorine
+27,Science,Medium,What scientific law states that energy cannot be created or destroyed?,Waht scientifc law statse that enregy canot be creatd or destoryed?,Law of Conservation of Energy
+28,Science,Medium,Which blood type is known as the universal donor?,Whcih bllod typ is knwon as teh univresal donur?,O negative (O-)
+29,Science,Medium,What is the term for the minimum energy required to start a chemical reaction?,Waht is teh trm for teh minimun enregy reqiured to strat a chemicla reactoin?,Activation energy
+30,Science,Medium,Which planet has the greatest number of moons in the solar system?,Whcih plannet has teh greatst numbber of mooons in teh solar sytsem?,Saturn
+31,Science,Hard,Which Indian scientist won the Nobel Prize in Physics in 1930?,Whcih Indain scientsit won teh Nobeel Przie in Phyics in 1930?,C. V. Raman
+32,Science,Hard,What is the half-life of Carbon-14 used in radiocarbon dating?,Waht is teh half-lief of Carbon-14 usde in radiocarbn datng?,"Approximately 5,730 years"
+33,Science,Hard,What is the name of the enzyme that unwinds the DNA double helix during replication?,Waht is teh naem of teh enzime taht unwinds teh DNA dubble helxi durng replicaton?,Helicase
+34,Science,Hard,What quantum mechanical principle states that two fermions cannot occupy the same quantum state?,Waht quantm mechnaical princpile statse taht two ferminos canot ocupy teh saem quantm satte?,Pauli Exclusion Principle
+35,Science,Hard,Which element was discovered by the Curies in 1898 and named after Marie Curie's home country?,Whcih elemnt was discovred by teh Cuires in 1898 and namd aftar Marie Curie's hoem cuntry?,Polonium
+36,Science,Hard,In which year did Ernest Rutherford publish the nuclear model of the atom?,In whcih yer did Ernset Ruthreford pubilsh teh nuclera modl of teh atmo?,1911
+37,Science,Hard,What is the SI unit of luminous intensity?,Waht is teh SI unti of luminuos intensty?,Candela
+38,Science,Hard,Which law of thermodynamics states that the entropy of a perfect crystal at absolute zero is zero?,Whcih law of thermdynamics statse taht teh entorpy of a prefect crystl at absolte zero is zero?,Third Law of Thermodynamics
+39,Science,Hard,What is the chemical name of H2SO4?,Waht is teh chemicla naem of H2SO4?,Sulfuric acid
+40,Science,Hard,Which protein complex carries out the light-dependent reactions in plant photosynthesis?,Whcih proteien compelx carreis out teh light-dependnt reactoins in plnat photosyntehsis?,Photosystem II
+41,Geography,Easy,What is the capital of France?,Waht is teh captial of Farnce?,Paris
+42,Geography,Easy,What is the largest continent by area?,Waht is teh largets continnet by arae?,Asia
+43,Geography,Easy,What is the longest river in the world?,Waht is teh longset rivr in teh wrold?,Nile
+44,Geography,Easy,What is the capital of Australia?,Waht is teh captial of Australai?,Canberra
+45,Geography,Easy,What is the smallest country in the world?,Waht is teh smallset cuntry in teh wrold?,Vatican City
+46,Geography,Easy,What is the highest mountain in the world?,Waht is teh highset montain in teh wrold?,Mount Everest
+47,Geography,Easy,What is the largest ocean?,Waht is teh largets oceean?,Pacific Ocean
+48,Geography,Easy,What is the capital of Japan?,Waht is teh captial of Japna?,Tokyo
+49,Geography,Easy,What is the longest mountain range in the world?,Waht is teh longset mountian ragne in teh wrold?,Andes
+50,Geography,Easy,What is the capital of Brazil?,Waht is teh captial of Brzail?,Brasilia
+51,Geography,Easy,Which country has the most natural lakes?,Whcih cuntry has teh moost naturel laeks?,Canada
+52,Geography,Easy,What is the driest desert in the world?,Waht is teh driest desret in teh wrold?,Atacama Desert
+53,Geography,Easy,What is the capital of Germany?,Waht is teh captial of Germny?,Berlin
+54,Geography,Easy,What river flows through Egypt?,Waht rivr flowes thrugh Egytp?,Nile
+55,Geography,Easy,What is the largest country by area?,Waht is teh largets cuntry by arae?,Russia
+56,Geography,Easy,What is the capital of Canada?,Waht is teh captial of Canadda?,Ottawa
+57,Geography,Easy,What is the saltiest body of water on Earth?,Waht is teh saltiest bodi of watre on Erth?,Dead Sea
+58,Geography,Easy,On which continent is the Sahara Desert located?,On whcih contiennt is teh Sahara Desret locatd?,Africa
+59,Geography,Easy,What is the capital of Argentina?,Waht is teh captial of Argentnia?,Buenos Aires
+60,Geography,Easy,What is the capital of China?,Waht is teh captial of Chnia?,Beijing
+61,Geography,Medium,Which city serves as the political and administrative capital of India?,Whcih citi servse as teh politcal and adminstrative captial of Indai?,New Delhi
+62,Geography,Medium,Which African country has the largest land area?,Whcih Africna cuntry has teh largets land arae?,Algeria
+63,Geography,Medium,Which strait separates the continents of Europe and Africa?,Whcih strat seprrates teh continents of Eruope and Africna?,Strait of Gibraltar
+64,Geography,Medium,Which country is entirely surrounded by South Africa?,Whcih cuntry is entirly surrounedd by Suth Africa?,Lesotho
+65,Geography,Medium,Which river forms the border between the United States and Mexico?,Whcih rivr froms teh bordr betwen teh Unitd Staets and Mexcio?,Rio Grande
+66,Geography,Medium,"In which ocean is the Mariana Trench, the deepest point on Earth, located?","In whcih oceean is teh Mariana Trecnh, teh deepst poitn on Erth, locatd?",Pacific Ocean
+67,Geography,Medium,Which two countries share the longest international border in the world?,Whcih two cuntries shar teh longset internatonal bordr in teh wrold?,Canada and United States
+68,Geography,Medium,What is the name of the world's largest hot desert?,Waht is teh naem of teh wrold's largets hot desret?,Sahara Desert
+69,Geography,Medium,What type of tectonic plate boundary is where two plates move apart from each other?,Waht typ of tectonicl plat boundry is wher two plats mov aprat from eachother?,Divergent boundary
+70,Geography,Medium,Which continent has the most countries?,Whcih contiennt has teh moost cuntries?,Africa
+71,Geography,Hard,What is the narrow land bridge that connects North America and South America called?,Waht is teh narow land bridg taht conects Norht Amrica and Suth Amrica callde?,Isthmus of Panama
+72,Geography,Hard,Which city is the seat of government and located at the highest altitude among national capitals?,Whcih citi is teh seet of goverment and locatd at teh highset altitued amnog nationl captials?,"La Paz, Bolivia"
+73,Geography,Hard,What is the name of the deepest lake in the world?,Waht is teh naem of teh deepst laek in teh wrold?,Lake Baikal
+74,Geography,Hard,Which Indian state has the longest coastline?,Whcih Indain statte has teh longset coastlnie?,Gujarat
+75,Geography,Hard,What ocean current keeps Western Europe warmer than its latitude would suggest?,Waht oceean curent kepes Westrn Eruope warmre than its latitued wuold suggset?,Gulf Stream
+76,Geography,Hard,Which country has the most time zones in the world?,Whcih cuntry has teh moost tiem zones in teh wrold?,France
+77,Geography,Hard,Which volcanic archipelago inspired Charles Darwin's theory of evolution?,Whcih volcanc archipelgo inspirde Chalres Darwin's thoery of evolutoin?,Galapagos Islands
+78,Geography,Hard,Through how many countries does the River Danube flow?,Thrugh how meny cuntries dose teh Rivr Dnaube flwo?,10 countries
+79,Geography,Hard,What is the name of the body of water between India and Sri Lanka?,Waht is teh naem of teh bodi of watre betwen Indai and Sri Lnaka?,Palk Strait
+80,Geography,Hard,Which desert covers most of the Mongolian Plateau and parts of northern China?,Whcih desret covrse moost of teh Mongolain Plataeu and prts of northren Chnia?,Gobi Desert
+81,History,Easy,In what year did World War II end?,In waht yer did Wrold War II edn?,1945
+82,History,Easy,Who was the first President of the United States?,Hwo was teh frist Presedint of teh Unitd Staets?,George Washington
+83,History,Easy,In what year did the French Revolution begin?,In waht yer did teh Frnech Revolutoin begni?,1789
+84,History,Easy,Who was the first person to walk on the Moon?,Hwo was teh frist persn to wlak on teh Mone?,Neil Armstrong
+85,History,Easy,In what year did India gain independence from Britain?,In waht yer did Indai gain independnce from Britian?,1947
+86,History,Easy,In what year did World War I begin?,In waht yer did Wrold War I begni?,1914
+87,History,Easy,Who was the first Emperor of China?,Hwo was teh frist Emporer of Chnia?,Qin Shi Huang
+88,History,Easy,What year did the Berlin Wall fall?,Waht yer did teh Berlni Wall fal?,1989
+89,History,Easy,Who invented the telephone?,Hwo inventd teh telepohne?,Alexander Graham Bell
+90,History,Easy,In what year did Christopher Columbus reach the Americas?,In waht yer did Christophr Columubs reach teh Amricas?,1492
+91,History,Easy,What was the first artificial satellite launched into space?,Waht was teh frist artifcial satelite launchd into spac?,Sputnik 1
+92,History,Easy,Who was the first female Prime Minister of the United Kingdom?,Hwo was teh frist femael Prmie Ministre of teh Unitd Kindom?,Margaret Thatcher
+93,History,Easy,In what year was the United Nations founded?,In waht yer was teh Unitd Natinos foundde?,1945
+94,History,Easy,What was the capital of the Byzantine Empire?,Waht was teh captial of teh Byzantne Emprie?,Constantinople
+95,History,Easy,In what year did the Titanic sink?,In waht yer did teh Titnaic sinc?,1912
+96,History,Easy,What ancient civilization built Machu Picchu?,Waht anccient civliization bulit Machu Pichu?,Inca civilization
+97,History,Easy,Who wrote the Communist Manifesto?,Hwo wroet teh Communsit Manifsto?,Karl Marx and Friedrich Engels
+98,History,Easy,Who was the first woman to win a Nobel Prize?,Hwo was teh frist womna to wni a Nobeel Przie?,Marie Curie
+99,History,Easy,In what year did the American Civil War end?,In waht yer did teh Amercian Civl War edn?,1865
+100,History,Easy,What year was the Eiffel Tower completed?,Waht yer was teh Eiffel Towre completd?,1889
+101,History,Medium,Which treaty formally ended World War I?,Whcih treayt formlaly endde Wrold War I?,Treaty of Versailles
+102,History,Medium,In which year did the Russian Revolution bring the Bolsheviks to power?,In whcih yer did teh Russain Revolutoin brign teh Bolshevkis to powre?,1917
+103,History,Medium,Which Indian independence leader led the Indian National Army and was known as Netaji?,Whcih Indain independnce leadre led teh Indain Nationl Army and was knwon as Netaji?,Subhas Chandra Bose
+104,History,Medium,What was the name of the first written legal code issued by a Babylonian king?,Waht was teh naem of teh frist writtn legla code issudd by a Babylonain kign?,Code of Hammurabi
+105,History,Medium,In which year was the Magna Carta signed?,In whcih yer was teh Magna Carta signde?,1215
+106,History,Medium,Which battle in 1757 established British dominance in India?,Whcih battlle in 1757 establshd Britsh dominanec in Indai?,Battle of Plassey
+107,History,Medium,Who was the last Mughal Emperor of India?,Hwo was teh last Mughal Emporer of Indai?,Bahadur Shah Zafar II
+108,History,Medium,Which country was the first to grant women the right to vote nationally?,Whcih cuntry was teh frist to grnat womne teh rigt to vote nationlaly?,New Zealand (1893)
+109,History,Medium,Which empire ruled from Constantinople for nearly a thousand years after the fall of Rome?,Whcih emprie rulde from Constantnople for nearely a thousnd yeras aftre teh fal of Rome?,Byzantine Empire
+110,History,Medium,Which US President announced the policy of containment against Soviet expansion after World War II?,Whcih US Presedint announcde teh polciy of containmnet agianst Soveit expansoin aftre Wrold War II?,Harry S. Truman
+111,History,Hard,In what year did the Battle of Panipat establish the Mughal Empire in India?,In waht yer did teh Battlle of Panipat establsh teh Mughal Emprie in Indai?,1526
+112,History,Hard,Which Mauryan emperor converted to Buddhism after the Kalinga War?,Whcih Mauryan emporer convertd to Buddhsim aftre teh Kalinga War?,Ashoka
+113,History,Hard,"What was the code name of the Allied invasion of Normandy on June 6, 1944?","Waht was teh code naem of teh Alleid invasoin of Normadny on Jnue 6, 1944?",Operation Overlord
+114,History,Hard,Which Indian mathematician worked with G.H. Hardy at Cambridge and formulated theorems in number theory?,Whcih Indain mathemtician workde with G.H. Hardy at Cambrdige and formulatd theorms in numbrer thoery?,Srinivasa Ramanujan
+115,History,Hard,In what year was the Indian National Congress founded?,In whcih yer was teh Indain Nationl Congrses foundde?,1885
+116,History,Hard,Which Chinese dynasty built the majority of the present Great Wall of China?,Whcih Chinse dynastty bulit teh majoritty of teh preesnt Greet Wall of Chnia?,Ming Dynasty
+117,History,Hard,What was the name of the policy of racial segregation enforced in South Africa until 1994?,Waht was teh naem of teh polciy of racial segregatoin enforcde in Suth Africna untl 1994?,Apartheid
+118,History,Hard,Who was the first Secretary-General of the United Nations?,Hwo was teh frist Secretry-Genreal of teh Unitd Natinos?,Trygve Lie
+119,History,Hard,In which year did the Ottoman Empire dissolve and the Republic of Turkey be proclaimed?,In whcih yer did teh Otoman Emprie disolve and teh Republci of Turkye be proclamied?,1923
+120,History,Hard,What was the name of the American plan to provide economic aid to Western Europe after World War II?,Waht was teh naem of teh Amercian plan to provdie economci aid to Westrn Eruope aftre Wrold War II?,Marshall Plan
+121,Technology,Easy,Who invented the World Wide Web?,Hwo inventd teh Wrold Wdie Web?,Tim Berners-Lee
+122,Technology,Easy,What does CPU stand for?,Waht does CPU stnad for?,Central Processing Unit
+123,Technology,Easy,Who created the Python programming language?,Hwo creatd teh Pythno programmign languege?,Guido van Rossum
+124,Technology,Easy,What does HTML stand for?,Waht does HTML stnad for?,HyperText Markup Language
+125,Technology,Easy,In what year was the first iPhone released?,In waht yer was teh frist iPhoen releasde?,2007
+126,Technology,Easy,What does RAM stand for?,Waht does RAM stnad for?,Random Access Memory
+127,Technology,Easy,Who co-founded Apple with Steve Jobs?,Hwo co-founedd Appel with Stev Jobs?,Steve Wozniak
+128,Technology,Easy,What does URL stand for?,Waht does URL stnad for?,Uniform Resource Locator
+129,Technology,Easy,What programming language was created by Bjarne Stroustrup?,Waht programmign languege was creatd by Bjarne Stroutsrup?,C++
+130,Technology,Easy,What does GPS stand for?,Waht does GPS stnad for?,Global Positioning System
+131,Technology,Easy,What does USB stand for?,Waht does USB stnad for?,Universal Serial Bus
+132,Technology,Easy,Which company developed the Android operating system?,Whcih compny developd teh Androdi operatign sytsem?,Google
+133,Technology,Easy,What does SQL stand for?,Waht does SQL stnad for?,Structured Query Language
+134,Technology,Easy,What does LAN stand for?,Waht does LAN stnad for?,Local Area Network
+135,Technology,Easy,In what year was Linux first released?,In waht yer was Linuex frist releasde?,1991
+136,Technology,Easy,What does BIOS stand for?,Waht does BIOS stnad for?,Basic Input/Output System
+137,Technology,Easy,Who founded Microsoft?,Hwo founedd Microsofft?,Bill Gates and Paul Allen
+138,Technology,Easy,What does API stand for?,Waht does API stnad for?,Application Programming Interface
+139,Technology,Easy,What does ROM stand for?,Waht does ROM stnad for?,Read-Only Memory
+140,Technology,Easy,Who invented the C programming language?,Hwo inventd teh C programmign languege?,Dennis Ritchie
+141,Technology,Medium,Which data structure operates on a Last-In First-Out principle?,Whcih datta structrue operatse on a Last-In Frist-Out principel?,Stack
+142,Technology,Medium,What does the Transport Layer of the OSI model primarily handle?,Waht does teh Transprot Layre of teh OSI modl primairly hnadle?,End-to-end communication and error recovery
+143,Technology,Medium,Which sorting algorithm uses divide-and-conquer and has average time complexity O(n log n)?,Whcih sortign algorithmm uses divdie-and-conqure and has averge tiem complexty O(n log n)?,Merge Sort
+144,Technology,Medium,What type of malware encrypts a victim's files and demands payment for the decryption key?,Waht typ of malwrae encryptts a victm's filles and demannds payemnt for teh decryptoin kye?,Ransomware
+145,Technology,Medium,Which protocol automatically assigns IP addresses to devices on a network?,Whcih protocl automaticaly assings IP addreses to devces on a netwrok?,Dynamic Host Configuration Protocol
+146,Technology,Medium,What does HTTPS stand for?,Waht does HTTPS stnad for?,HyperText Transfer Protocol Secure
+147,Technology,Medium,"In object-oriented programming, what is the concept of bundling data and methods into a single unit?","In objcet-oreineted programmign, waht is teh concpet of bundlign datta and methdos into a snigle unti?",Encapsulation
+148,Technology,Medium,Which number system uses base 16 and includes digits 0-9 and letters A-F?,Whcih numbrer sytsem usess base 16 and incldes digts 0-9 and lettres A-F?,Hexadecimal
+149,Technology,Medium,What is the name of the storage architecture that organizes data in tables with rows and columns?,Waht is teh naem of teh stoarge arcitecthure taht organzes datta in tbles with rowss and columms?,Relational database
+150,Technology,Medium,What does the acronym DNS stand for in networking?,Waht does teh acornym DNS stnad for in netwroking?,Domain Name System
+151,Technology,Hard,What is the time complexity of binary search on a sorted array of n elements?,Waht is teh tiem complexty of bniary serach on a sortd arry of n elemennts?,O(log n)
+152,Technology,Hard,Which cryptographic protocol replaced SSL to provide secure communication over the internet?,Whcih cryptogrphic protocl replacd SSL to provdie secrue communicaton ovr teh internt?,TLS (Transport Layer Security)
+153,Technology,Hard,"In the CAP theorem, what do C, A, and P stand for?","In teh CAP theroem, waht do C, A, and P stnad for?","Consistency, Availability, Partition tolerance"
+154,Technology,Hard,Which IEEE standard defines the technical specifications for Wi-Fi networking?,Whcih IEEE standrad defnes teh technicla specificatons for Wi-Fi netwroking?,IEEE 802.11
+155,Technology,Hard,How many usable host addresses exist in an IPv4 network with a /24 subnet mask?,How meny usabel host addreses exsit in an IPv4 netwrok with a /24 subnte maks?,254
+156,Technology,Hard,What does ACID stand for in the context of database transactions?,Waht does ACID stnad for in teh contxet of databse transactinos?,"Atomicity, Consistency, Isolation, Durability"
+157,Technology,Hard,Which programming paradigm treats computation as evaluation of mathematical functions and avoids changing state?,Whcih programmign paradigm trets computaion as evaluaion of mathemtical functons and avoids changign statte?,Functional programming
+158,Technology,Hard,In which year was the RSA public-key cryptosystem first publicly described?,In whcih yer was teh RSA publci-kye cryptosytsem frist publicaly describde?,1977
+159,Technology,Hard,What is the name of the attack where a malicious actor intercepts communication between two parties?,Waht is teh naem of teh attck wher a malcious actr intercpets communicaton betwen two partiis?,Man-in-the-middle attack
+160,Technology,Hard,Which data structure does Dijkstra's shortest path algorithm most efficiently use for its priority queue?,Whcih datta structrue does Dijkstra's shortset phat algorithim moost efficinetly use for its priorty quee?,Min-heap
+161,Mathematics,Easy,What is the value of pi to 2 decimal places?,Waht is teh vaule of pi to 2 deciml places?,3.14
+162,Mathematics,Easy,What is the square root of 144?,Waht is teh squrae root of 144?,12
+163,Mathematics,Easy,What is the sum of interior angles in a triangle?,Waht is teh sum of interoir angles in a trianle?,180 degrees
+164,Mathematics,Easy,What is the next prime number after 7?,Waht is teh nxt priem numbber aftre 7?,11
+165,Mathematics,Easy,What is 2 to the power of 10?,Waht is 2 to teh powre of 10?,1024
+166,Mathematics,Easy,What theorem relates the three sides of a right triangle as a squared + b squared = c squared?,Waht theroem relatse teh thre sides of a rigt trianle as a squred + b squred = c squred?,Pythagorean theorem
+167,Mathematics,Easy,What is the only even prime number?,Waht is teh onyl evn priem numbber?,2
+168,Mathematics,Easy,What is the sum of the first 10 natural numbers?,Waht is teh sum of teh frist 10 naturel numbbers?,55
+169,Mathematics,Easy,What is 0 factorial equal to?,Waht is 0 factoiral equla to?,1
+170,Mathematics,Easy,What is the formula for the area of a circle?,Waht is teh forumla for teh arae of a circel?,πr²
+171,Mathematics,Easy,What number system uses base 2?,Waht numbber sytsem usess base 2?,Binary
+172,Mathematics,Easy,What is any non-zero number raised to the power of 0?,Waht is anny non-zeor numbber raisde to teh powre of 0?,1
+173,Mathematics,Easy,How many sides does a heptagon have?,How meny sids dose a heptaogn hav?,7
+174,Mathematics,Easy,What is the square root of 256?,Waht is teh squrae root of 256?,16
+175,Mathematics,Easy,What is 12 multiplied by 12?,Waht is 12 multipied by 12?,144
+176,Mathematics,Easy,What is the perimeter formula of a rectangle?,Waht is teh perimter forumla of a rectnagle?,2 times (length + width)
+177,Mathematics,Easy,What is the Roman numeral for 1000?,Waht is teh Romna numerla for 1000?,M
+178,Mathematics,Easy,What is log base 10 of 1000?,Waht is lgo base 10 of 1000?,3
+179,Mathematics,Easy,How many degrees are in a full circle?,How meny degeres are in a fll circl?,360
+180,Mathematics,Easy,What is the formula for the area of a triangle?,Waht is teh forumla for teh arae of a trianle?,half times base times height
+181,Mathematics,Medium,What is the derivative of sin(x) with respect to x?,Waht is teh derivtive of sin(x) with respct to x?,cos(x)
+182,Mathematics,Medium,What is the sum of interior angles of a hexagon?,Waht is teh sum of interoir angles of a hexaogn?,720 degrees
+183,Mathematics,Medium,What theorem states that every polynomial equation has at least one complex root?,Waht theroem statse taht evrey polynomila equatoin has at laest one compelx root?,Fundamental Theorem of Algebra
+184,Mathematics,Medium,What is the result of integrating 2x with respect to x?,Waht is teh resutl of integratng 2x with respct to x?,x^2 + C
+185,Mathematics,Medium,"In a normal distribution, what percentage of data falls within one standard deviation of the mean?","In a normla distributoin, waht percentge of datta falls withn one standrad deviatoin of teh mena?",Approximately 68%
+186,Mathematics,Medium,What is the 15th term of the Fibonacci sequence?,Waht is teh 15th trm of teh Fibonaci sequnce?,610
+187,Mathematics,Medium,What property states that the order of addition or multiplication does not change the result?,Waht proprty statse taht teh ordre of additoin or multiplicatoin dose not chnage teh resutl?,Commutative property
+188,Mathematics,Medium,What is the value of sin 30 degrees?,Waht is teh vaule of sin 30 degeres?,0.5
+189,Mathematics,Medium,How many prime numbers exist between 1 and 50?,How meny priem numbbers exsit betwen 1 and 50?,15
+190,Mathematics,Medium,What is the formula for the volume of a sphere?,Waht is teh forumla for teh volmue of a sphre?,(4/3)πr^3
+191,Mathematics,Hard,What is the value of Euler's number e to 5 decimal places?,Waht is teh vaule of Eulre's numbber e to 5 deciml places?,2.71828
+192,Mathematics,Hard,Which mathematician proved that there are different sizes of infinity?,Whcih mathemtician provde taht thre are diffrent sizse of infinty?,Georg Cantor
+193,Mathematics,Hard,"What is the determinant of the 2x2 matrix with rows [3,8] and [4,6]?","Waht is teh determinnt of teh 2x2 matirx with rowss [3,8] and [4,6]?",-14
+194,Mathematics,Hard,Which Indian mathematician is credited with formalizing the concept of zero as a number in the 7th century?,Whcih Indain mathemtician is creditd with formalizng teh concpet of zeor as a numbber in teh 7th centrey?,Brahmagupta
+195,Mathematics,Hard,"What is the Euler characteristic formula relating vertices V, edges E, and faces F of a convex polyhedron?","Waht is teh Eulre characteristc forumla relatng vertiecs V, edgse E, and faecs F of a convex polyhedorn?",V - E + F = 2
+196,Mathematics,Hard,What is the sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 + ...?,Waht is teh sum of teh infintie geometrc seriess 1 + 1/2 + 1/4 + 1/8 + ...?,2
+197,Mathematics,Hard,What is the name of the number theory function that counts integers up to n that are coprime to n?,Waht is teh naem of teh numbber thoery functoin taht conuts integres up to n taht are coprime to n?,Euler's totient function
+198,Mathematics,Hard,What is the solution to dy/dx = y with initial condition y(0) = 1?,Waht is teh solutoin to dy/dx = y wiht initail conditoin y(0) = 1?,y = e^x
+199,Mathematics,Hard,Which theorem in number theory states every integer greater than 1 is either prime or a product of primes?,Whcih theroem in numbber thoery statse evrey integre graetr than 1 is eithr priem or a prodcut of priems?,Fundamental Theorem of Arithmetic
+200,Mathematics,Hard,What is the name of the famous unproven conjecture stating every even integer greater than 2 is the sum of two primes?,Waht is teh naem of teh famouus unproven conjectrue statng evrey evn integre gretar than 2 is teh sum of two priems?,Goldbach's Conjecture

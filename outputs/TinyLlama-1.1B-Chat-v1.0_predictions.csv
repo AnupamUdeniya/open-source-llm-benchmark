@@ -1,0 +1,279 @@
+ID,Category,Difficulty,Question,GroundTruth,Prediction
+1,Science,Easy,What is the chemical formula for water?,H2O,The chemical formula for water is H2O.
+2,Science,Easy,Who discovered penicillin?,Alexander Fleming,"The discovery of penicillin was made by Alexander Fleming, a British bacteriologist, in 1928. Fleming discovered penicillin while studying a mold that was growing on a petri d"
+3,Science,Easy,What is the chemical symbol for gold?,Au,The chemical symbol for gold is Au.
+4,Science,Easy,What planet is closest to the Sun?,Mercury,The closest planet to the Sun is Mercury. It is located at a distance of approximately 88 million kilometers (55 million miles) from the Sun.
+5,Science,Easy,What is the powerhouse of the cell?,Mitochondria,"The powerhouse of the cell is a complex organelle that is responsible for the synthesis of ATP (adenosine triphosphate) and other important cellular molecules. The powerhouse is located in the mitochondria, which"
+6,Science,Easy,What gas do plants absorb during photosynthesis?,Carbon dioxide (CO2),"Plants absorb carbon dioxide (CO2) during photosynthesis, which is the process by which plants convert light energy into chemical energy in the form of glucose (a type of sugar). During photosynthesis, the green"
+7,Science,Easy,What is the atomic number of carbon?,6,The atomic number of carbon is 6. Carbon is a chemical element with atomic number 6 and atomic weight 12.00.
+8,Science,Easy,What is the approximate speed of light in a vacuum?,"299,792 km/s","The speed of light in a vacuum is approximately 299,792,458 meters per second (m/s), which is the same as the speed of light in free space. This is because the speed of"
+9,Science,Easy,What is the hardest natural substance on Earth?,Diamond,"The hardest natural substance on Earth is diamond, which is a crystalline form of carbon. Diamond is the hardest naturally occurring substance, with a hardness rating of 10 on the Mohs scale,"
+10,Science,Easy,What force keeps planets in orbit around the Sun?,Gravity,The force that keeps planets in orbit around the Sun is gravity. Gravity is the attraction between two objects that are moving in opposite directions. The force of gravity is proportional to the square of the distance between the two objects and inversely
+11,Science,Easy,What is the chemical symbol for iron?,Fe,"The chemical symbol for iron is ""Fe."""
+12,Science,Easy,How many bones are in the adult human body?,206,The adult human body has 206 bones.
+13,Science,Easy,What organ produces insulin in the human body?,Pancreas,"The human body produces insulin in the pancreas. The pancreas is a gland located behind the stomach and in front of the small intestine. It is responsible for producing and releasing insulin,"
+14,Science,Easy,What is the chemical formula for table salt?,NaCl,The chemical formula for table salt (sodium chloride) is NaCl.
+15,Science,Easy,What is the chemical symbol for silver?,Ag,The chemical symbol for silver is Ag.
+16,Science,Easy,What is the unit of electrical resistance?,Ohm,"The unit of electrical resistance is the ohm (Ω). It is denoted by the symbol ""Ω""."
+17,Science,Easy,What is the most abundant gas in Earth's atmosphere?,Nitrogen,"The most abundant gas in Earth's atmosphere is nitrogen (N2). Nitrogen is a colorless, odorless gas that makes up about 78% of Earth's atmosphere. Other gases such as"
+18,Science,Easy,Who proposed the theory of general relativity?,Albert Einstein,"The theory of general relativity was proposed by Albert Einstein in 1915. Einstein's theory of relativity is a fundamental theory of physics that explains the relationship between space, time, and matter. It is based on the"
+19,Science,Easy,What is the chemical symbol for potassium?,K,The chemical symbol for potassium is K.
+20,Science,Easy,What is the boiling point of water at sea level in Celsius?,100 degrees C,The boiling point of water at sea level in Celsius is 100 degrees Celsius (212 degrees Fahrenheit).
+21,Science,Medium,Which organ in the human body is responsible for filtering blood and producing urine?,Kidney,The human body has two organs responsible for filtering blood and producing urine: the kidneys and the bladder. The kidneys are located in the upper part of the abdomen and are responsible for filtering blood and producing ur
+22,Science,Medium,Which subatomic particle carries a negative electric charge?,Electron,The subatomic particle that carries a negative electric charge is the electron.
+23,Science,Medium,What process do cells use to produce energy from glucose without oxygen?,Anaerobic respiration,Cells use a process called glycolysis to produce energy from glucose without oxygen. Glycolysis is a metabolic pathway that occurs in the cytoplasm of cells. It is composed of several enzym
+24,Science,Medium,Which layer of Earth's atmosphere contains the ozone layer?,Stratosphere,The layer of Earth's atmosphere that contains the ozone layer is the stratosphere.
+25,Science,Medium,What type of bond holds the two strands of a DNA double helix together?,Hydrogen bonds,"The two strands of a DNA double helix are held together by hydrogen bonds between the nitrogenous bases (adenine, guanine, cytosine, and thymine) and the phosphate groups of"
+26,Science,Medium,Which element has the highest electronegativity on the periodic table?,Fluorine,"The element with the highest electronegativity on the periodic table is fluorine (F), with an electronegativity of 2.94. Other elements with high electronegativities include helium (He), neon (Ne),"
+27,Science,Medium,What scientific law states that energy cannot be created or destroyed?,Law of Conservation of Energy,"The scientific law that energy cannot be created or destroyed is the law of conservation of energy. This law states that the total amount of energy in a system remains constant, regardless of whether it is being created, destroyed, or changed. This means that energy"
+28,Science,Medium,Which blood type is known as the universal donor?,O negative (O-),"The universal donor is a type of blood donor that can donate blood of any blood type. This type of blood donor is known for their ability to donate blood of any blood type, regardless of their own blood type."
+29,Science,Medium,What is the term for the minimum energy required to start a chemical reaction?,Activation energy,"The term for the minimum energy required to start a chemical reaction is the activation energy. Activation energy is the minimum energy required to initiate a chemical reaction, and it is measured in joules (J). The activation energy is typically expressed as the"
+30,Science,Medium,Which planet has the greatest number of moons in the solar system?,Saturn,"The planet with the greatest number of moons in the solar system is Jupiter. Jupiter has 69 moons, including the largest moon in the solar system, Ganymede, which is larger than all the other moons combined."
+31,Science,Hard,Which Indian scientist won the Nobel Prize in Physics in 1930?,C. V. Raman,The Indian scientist who won the Nobel Prize in Physics in 1930 was Satyendra Nath Bose.
+32,Science,Hard,What is the half-life of Carbon-14 used in radiocarbon dating?,"Approximately 5,730 years","The half-life of Carbon-14 is approximately 5,730 years. This means that half of the carbon-14 atoms in a sample will have decayed to carbon-14 isotopes by the time"
+33,Science,Hard,What is the name of the enzyme that unwinds the DNA double helix during replication?,Helicase,The name of the enzyme that unwinds the DNA double helix during replication is DNA polymerase.
+34,Science,Hard,What quantum mechanical principle states that two fermions cannot occupy the same quantum state?,Pauli Exclusion Principle,"The principle that two fermions cannot occupy the same quantum state is called the ""quantum superposition principle."" This principle states that a quantum system can exist in multiple states simultaneously, rather than just one state at a time. This means that two"
+35,Science,Hard,Which element was discovered by the Curies in 1898 and named after Marie Curie's home country?,Polonium,The element polonium was discovered by the Curies in 1898 and named after Poland.
+36,Science,Hard,In which year did Ernest Rutherford publish the nuclear model of the atom?,1911,"Ernest Rutherford published the nuclear model of the atom in 1911, which is also known as the Rutherford model."
+37,Science,Hard,What is the SI unit of luminous intensity?,Candela,The SI unit of luminous intensity is the candela (cd). A candela is a measure of the luminous intensity of a light source.
+38,Science,Hard,Which law of thermodynamics states that the entropy of a perfect crystal at absolute zero is zero?,Third Law of Thermodynamics,"The law of thermodynamics states that the entropy of a perfect crystal at absolute zero is zero. This is because the entropy of a perfect crystal is zero because it is a closed system, meaning that it has no energy flowing in"
+39,Science,Hard,What is the chemical name of H2SO4?,Sulfuric acid,The chemical name of hydrogen sulfide (H2SO4) is hydrogen sulfide gas (H2S).
+40,Science,Hard,Which protein complex carries out the light-dependent reactions in plant photosynthesis?,Photosystem II,"The light-dependent reactions in plant photosynthesis are carried out by the chlorophyll-containing complexes, which are composed of chlorophyll a and chlorophyll b. These complexes are located in the thy"
+41,Geography,Easy,What is the capital of France?,Paris,The capital of France is Paris.
+42,Geography,Easy,What is the largest continent by area?,Asia,"The largest continent by area is Asia, covering an area of approximately 42.5 million square kilometers (16.3 million square miles)."
+43,Geography,Easy,What is the longest river in the world?,Nile,"The longest river in the world is the Amazon River, which flows for over 4,000 miles (6,432 km) from its source in the Andes Mountains in South America to the Atlantic Ocean. The Amazon River is"
+44,Geography,Easy,What is the capital of Australia?,Canberra,The capital of Australia is Canberra.
+45,Geography,Easy,What is the smallest country in the world?,Vatican City,"The smallest country in the world is Nauru, located in the Pacific Ocean. It has an area of 0.001 square kilometers (0.00004 square miles) and a population of 1,02"
+46,Geography,Easy,What is the highest mountain in the world?,Mount Everest,"The highest mountain in the world is Mount Everest, located in the Himalayas in Nepal and Tibet, at an elevation of 29,029 feet (8,848 meters)."
+47,Geography,Easy,What is the largest ocean?,Pacific Ocean,"The largest ocean is the Pacific Ocean, which covers approximately 2.5 million square miles (6.5 million square kilometers) and is located between North America and Asia."
+48,Geography,Easy,What is the capital of Japan?,Tokyo,The capital of Japan is Tokyo.
+49,Geography,Easy,What is the longest mountain range in the world?,Andes,"The longest mountain range in the world is the Himalayas, which stretches over 17,000 kilometers (10,500 miles) across Asia. The Himalayas are made up of several"
+50,Geography,Easy,What is the capital of Brazil?,Brasilia,The capital of Brazil is Brasília.
+51,Geography,Easy,Which country has the most natural lakes?,Canada,"Switzerland has the most natural lakes in the world, with over 4,000 lakes. The country is home to some of the most beautiful and famous lakes in the world, including Lake Geneva, Lake Thun,"
+52,Geography,Easy,What is the driest desert in the world?,Atacama Desert,"The driest desert in the world is the Atacama Desert in Chile. It receives less than 10 millimeters (0.4 inches) of precipitation annually, making it one of the driest places on Earth."
+53,Geography,Easy,What is the capital of Germany?,Berlin,The capital of Germany is Berlin.
+54,Geography,Easy,What river flows through Egypt?,Nile,The Nile River is the longest river in Egypt and flows through the country from the north to the south. The Nile River is also the source of the country's water supply and is an important economic and cultural resource.
+55,Geography,Easy,What is the largest country by area?,Russia,"The largest country by area is Russia, covering an area of 17,124,200 square kilometers (6,600,000 square miles)."
+56,Geography,Easy,What is the capital of Canada?,Ottawa,The capital of Canada is Ottawa.
+57,Geography,Easy,What is the saltiest body of water on Earth?,Dead Sea,"The saltiest body of water on Earth is the Atlantic Ocean, which has a salt concentration of around 35% by weight. The most saline water on Earth is the Dead Sea, which has a salt concentration of around 34%"
+58,Geography,Easy,On which continent is the Sahara Desert located?,Africa,"The Sahara Desert is located in North Africa, primarily in the countries of Algeria, Egypt, Libya, Mauritania, Morocco, Sudan, and Tunisia."
+59,Geography,Easy,What is the capital of Argentina?,Buenos Aires,The capital of Argentina is Buenos Aires.
+60,Geography,Easy,What is the capital of China?,Beijing,The capital of China is Beijing.
+61,Geography,Medium,Which city serves as the political and administrative capital of India?,New Delhi,Delhi is the political and administrative capital of India.
+62,Geography,Medium,Which African country has the largest land area?,Algeria,"The largest land area in Africa is Nigeria, with an area of 9.8 million square kilometers (3.7 million square miles)."
+63,Geography,Medium,Which strait separates the continents of Europe and Africa?,Strait of Gibraltar,The Strait of Gibraltar is the narrowest point of land between the continents of Europe and Africa. It is located between the Iberian Peninsula in Europe and the African continent.
+64,Geography,Medium,Which country is entirely surrounded by South Africa?,Lesotho,"The country that is entirely surrounded by South Africa is Namibia. Namibia is located in southern Africa and is bordered by South Africa to the south, east, and north."
+65,Geography,Medium,Which river forms the border between the United States and Mexico?,Rio Grande,The Rio Grande is the border between the United States and Mexico.
+66,Geography,Medium,"In which ocean is the Mariana Trench, the deepest point on Earth, located?",Pacific Ocean,"The Mariana Trench, the deepest point on Earth, is located in the Pacific Ocean, specifically in the Mariana Trench, which is located in the western Pacific Ocean."
+67,Geography,Medium,Which two countries share the longest international border in the world?,Canada and United States,"The two countries sharing the longest international border in the world are:
+
+1. Canada and the United States
+2. Russia and Kazakhstan
+3. China and India
+4. Japan and South Korea
+5. Mexico and the United"
+68,Geography,Medium,What is the name of the world's largest hot desert?,Sahara Desert,The name of the world's largest hot desert is the Sahara Desert.
+69,Geography,Medium,What type of tectonic plate boundary is where two plates move apart from each other?,Divergent boundary,"The type of tectonic plate boundary where two plates move apart from each other is called a divergent boundary. This type of boundary occurs when two tectonic plates are moving away from each other, and the plates are moving at"
+70,Geography,Medium,Which continent has the most countries?,Africa,"As of 2021, the world has a total of 195 countries, with Africa having the most countries (54). The continent of Africa is home to the largest number of countries, followed by Asia (41),"
+71,Geography,Hard,What is the narrow land bridge that connects North America and South America called?,Isthmus of Panama,The narrow land bridge that connects North America and South America is called the Isthmus of Panama.
+72,Geography,Hard,Which city is the seat of government and located at the highest altitude among national capitals?,"La Paz, Bolivia","The seat of government of the United States is located in Washington, D.C., which is located at an altitude of 7,000 feet (2,130 meters) above sea level."
+73,Geography,Hard,What is the name of the deepest lake in the world?,Lake Baikal,"The name of the deepest lake in the world is Lake Baikal, located in Siberia, Russia."
+74,Geography,Hard,Which Indian state has the longest coastline?,Gujarat,"The longest coastline in India is the state of Kerala, which has a total coastline of 1,640 km (960 mi)."
+75,Geography,Hard,What ocean current keeps Western Europe warmer than its latitude would suggest?,Gulf Stream,The North Atlantic Oscillation (NAO) is a dominant oceanic current that keeps Western Europe warmer than its latitude would suggest. The NAO is a northward-flowing current that originates in the North Atlantic and brings warm
+76,Geography,Hard,Which country has the most time zones in the world?,France,"The United States has the most time zones in the world, with 16 time zones. The time zone in the United States that is closest to Greenwich Mean Time (GMT) is Eastern Standard Time (EST), which is 5"
+77,Geography,Hard,Which volcanic archipelago inspired Charles Darwin's theory of evolution?,Galapagos Islands,The Galapagos Islands in the Pacific Ocean are the volcanic archipelago that inspired Charles Darwin's theory of evolution. Darwin was a British naturalist and geologist who traveled to the Galapagos
+78,Geography,Hard,Through how many countries does the River Danube flow?,10 countries,"The River Danube flows through a total of 20 countries, including Austria, Bulgaria, Croatia, Czech Republic, Germany, Hungary, Italy, Moldova, Poland, Romania, Serbia, Slovakia, Slovenia"
+79,Geography,Hard,What is the name of the body of water between India and Sri Lanka?,Palk Strait,The name of the body of water between India and Sri Lanka is the Bay of Bengal.
+80,Geography,Hard,Which desert covers most of the Mongolian Plateau and parts of northern China?,Gobi Desert,The Gobi Desert covers most of the Mongolian Plateau and parts of northern China.
+81,History,Easy,In what year did World War II end?,1945,"World War II ended on September 2, 1945, with the signing of the Treaty of Versailles in Paris, France. The war officially ended with the signing of the Armistice of Cassibile on September 8"
+82,History,Easy,Who was the first President of the United States?,George Washington,"The first President of the United States was George Washington. He was inaugurated on March 4, 1789, and served as the first President of the United States from 1789 to 1797."
+83,History,Easy,In what year did the French Revolution begin?,1789,"The French Revolution began in 1789, when the National Assembly declared the end of the monarchy and the establishment of the French Republic."
+84,History,Easy,Who was the first person to walk on the Moon?,Neil Armstrong,"The first person to walk on the Moon was Neil Armstrong, who became the first human being to step on the lunar surface on July 20, 1969, as part of the Apollo 11 mission. Arm"
+85,History,Easy,In what year did India gain independence from Britain?,1947,"India gained independence from Britain on August 15, 1947."
+86,History,Easy,In what year did World War I begin?,1914,"World War I began on August 4, 1914, when Germany declared war on Austria-Hungary."
+87,History,Easy,Who was the first Emperor of China?,Qin Shi Huang,The first Emperor of China was Emperor Wu of the Han Dynasty (206 BCE - 8 AD).
+88,History,Easy,What year did the Berlin Wall fall?,1989,"The Berlin Wall, which separated East and West Berlin, fell on November 9, 1989, marking the end of the Cold War and the collapse of the Soviet Union."
+89,History,Easy,Who invented the telephone?,Alexander Graham Bell,"The invention of the telephone was a joint effort by Alexander Graham Bell and Thomas Edison. Bell invented the telephone in 1876, while Edison was working on his incandescent light bulb. Bell'"
+90,History,Easy,In what year did Christopher Columbus reach the Americas?,1492,"Christopher Columbus reached the Americas in 1492, during the Spanish Armada. Columbus was not the first European to reach the Americas, as the Aztecs had been exploring the region for centuries before Columbus"
+91,History,Easy,What was the first artificial satellite launched into space?,Sputnik 1,"The first artificial satellite launched into space was Sputnik 1, which was launched by the Soviet Union on October 4, 1957."
+92,History,Easy,Who was the first female Prime Minister of the United Kingdom?,Margaret Thatcher,"The first female Prime Minister of the United Kingdom was Margaret Thatcher, who served from 1979 to 1990."
+93,History,Easy,In what year was the United Nations founded?,1945,"The United Nations (UN) was founded on October 24, 1945, in San Francisco, California, United States."
+94,History,Easy,What was the capital of the Byzantine Empire?,Constantinople,"The capital of the Byzantine Empire was Constantinople (modern-day Istanbul, Turkey)."
+95,History,Easy,In what year did the Titanic sink?,1912,"The Titanic sank on April 15, 1912, in the early morning hours of April 15, 1912, in the North Atlantic Ocean, approximately 1,500 naut"
+96,History,Easy,What ancient civilization built Machu Picchu?,Inca civilization,The ancient civilization that built Machu Picchu is the Inca Empire. The Inca Empire was a pre-Columbian civilization that existed in the Andes Mountains of South America from the 13th to the 1
+97,History,Easy,Who wrote the Communist Manifesto?,Karl Marx and Friedrich Engels,"The Communist Manifesto, written by Karl Marx and Friedrich Engels, was published in 1848. The manifesto was a key document in the development of Marxist theory and the founding of the Communist Party of Germany"
+98,History,Easy,Who was the first woman to win a Nobel Prize?,Marie Curie,"The first woman to win a Nobel Prize was Marie Curie, who won the Nobel Prize in Physics in 1903. She was the first woman to win a Nobel Prize in any field."
+99,History,Easy,In what year did the American Civil War end?,1865,"The American Civil War (also known as the War Between the States) ended on April 9, 1865, with the signing of the Treaty of Paris, officially ending the conflict. The war lasted from April 12"
+100,History,Easy,What year was the Eiffel Tower completed?,1889,The Eiffel Tower was completed in 1889.
+101,History,Medium,Which treaty formally ended World War I?,Treaty of Versailles,"The Treaty of Versailles, signed on June 28, 1919, formally ended World War I. The treaty was signed by the Allied Powers (France, Britain, and Russia) and the Central Pow"
+102,History,Medium,In which year did the Russian Revolution bring the Bolsheviks to power?,1917,The Russian Revolution brought the Bolsheviks to power in 1917.
+103,History,Medium,Which Indian independence leader led the Indian National Army and was known as Netaji?,Subhas Chandra Bose,Netaji Subhas Chandra Bose was the leader of the Indian National Army (INA) during the Indian independence movement. He was known as Netaji and was a prominent figure in the Indian freedom struggle.
+104,History,Medium,What was the name of the first written legal code issued by a Babylonian king?,Code of Hammurabi,The name of the first written legal code issued by a Babylonian king is the Code of Hammurabi.
+105,History,Medium,In which year was the Magna Carta signed?,1215,"The Magna Carta was signed in 1215, during the reign of King John of England."
+106,History,Medium,Which battle in 1757 established British dominance in India?,Battle of Plassey,"The Battle of Plassey in 1757 established British dominance in India. The battle was fought between the British East India Company and the Mughal Empire, and the British emerged victorious, securing control over the"
+107,History,Medium,Who was the last Mughal Emperor of India?,Bahadur Shah Zafar II,"The last Mughal Emperor of India was Aurangzeb, who reigned from 1658 to 1707."
+108,History,Medium,Which country was the first to grant women the right to vote nationally?,New Zealand (1893),"The first country to grant women the right to vote nationally was the United States. The 19th Amendment to the United States Constitution, which granted women the right to vote, was ratified on August 18, 1"
+109,History,Medium,Which empire ruled from Constantinople for nearly a thousand years after the fall of Rome?,Byzantine Empire,"The Byzantine Empire, which ruled from Constantinople (modern-day Istanbul) for nearly a thousand years after the fall of Rome."
+110,History,Medium,Which US President announced the policy of containment against Soviet expansion after World War II?,Harry S. Truman,The US President who announced the policy of containment against Soviet expansion after World War II was Dwight D. Eisenhower.
+111,History,Hard,In what year did the Battle of Panipat establish the Mughal Empire in India?,1526,"The Battle of Panipat, also known as the Battle of Ferozpur, was fought in 1526 between the Mughal Empire and the Delhi Sultanate. The Mughal Empire, led by Emperor Akbar"
+112,History,Hard,Which Mauryan emperor converted to Buddhism after the Kalinga War?,Ashoka,"The Mauryan emperor Chandragupta Maurya converted to Buddhism after the Kalinga War. He was a devout Buddhist and is credited with spreading Buddhism to many parts of India, including the Ma"
+113,History,Hard,"What was the code name of the Allied invasion of Normandy on June 6, 1944?",Operation Overlord,"The code name for the Allied invasion of Normandy on June 6, 1944, was Operation Overlord."
+114,History,Hard,Which Indian mathematician worked with G.H. Hardy at Cambridge and formulated theorems in number theory?,Srinivasa Ramanujan,The Indian mathematician Srinivasa Ramanujan worked with G.H. Hardy at Cambridge and formulated theorems in number theory. Ramanujan's contributions to number theory include the discovery of the Raman
+115,History,Hard,In what year was the Indian National Congress founded?,1885,"The Indian National Congress was founded in 1885 in Allahabad, India."
+116,History,Hard,Which Chinese dynasty built the majority of the present Great Wall of China?,Ming Dynasty,"The Great Wall of China was built by various Chinese dynasties over a period of several centuries, with the most significant construction period being during the Ming dynasty (1368-1644). The Ming dynasty was responsible"
+117,History,Hard,What was the name of the policy of racial segregation enforced in South Africa until 1994?,Apartheid,The name of the policy of racial segregation enforced in South Africa until 1994 is Apartheid.
+118,History,Hard,Who was the first Secretary-General of the United Nations?,Trygve Lie,"The first Secretary-General of the United Nations was U Thant, who served from 1962 to 1972."
+119,History,Hard,In which year did the Ottoman Empire dissolve and the Republic of Turkey be proclaimed?,1923,"The Ottoman Empire dissolved in 1922, and the Republic of Turkey was proclaimed in 1923."
+120,History,Hard,What was the name of the American plan to provide economic aid to Western Europe after World War II?,Marshall Plan,The name of the American plan to provide economic aid to Western Europe after World War II was the Marshall Plan.
+121,Technology,Easy,Who invented the World Wide Web?,Tim Berners-Lee,"The invention of the World Wide Web (WWW) was a joint effort by a group of computer scientists and engineers, including Tim Berners-Lee, who worked at CERN (European Organization for N"
+122,Technology,Easy,What does CPU stand for?,Central Processing Unit,"CPU stands for Central Processing Unit. It is the brain of a computer, responsible for processing and executing instructions."
+123,Technology,Easy,Who created the Python programming language?,Guido van Rossum,The Python programming language was created by Guido van Rossum in 1991. Guido van Rossum is a Dutch computer scientist and programmer who is best known for creating the Python programming language.
+124,Technology,Easy,What does HTML stand for?,HyperText Markup Language,"HTML (Hypertext Markup Language) is a markup language used to create and format web pages. It is used to define the structure and content of web pages, including text, images, links, and other elements. HTML is a standardized"
+125,Technology,Easy,In what year was the first iPhone released?,2007,The first iPhone was released in 2007.
+126,Technology,Easy,What does RAM stand for?,Random Access Memory,RAM (Random Access Memory) is a type of computer memory that allows the computer to access data quickly and efficiently. It is a non-volatile memory that stores data and instructions in the form of temporary memory cells. RAM is used to store and
+127,Technology,Easy,Who co-founded Apple with Steve Jobs?,Steve Wozniak,Steve Jobs co-founded Apple with Steve Wozniak.
+128,Technology,Easy,What does URL stand for?,Uniform Resource Locator,"URL (Uniform Resource Locator) is an acronym that stands for Uniform Resource Locator. It is a string of characters that represents a specific resource on the internet, such as a web page, image, or video. The URL"
+129,Technology,Easy,What programming language was created by Bjarne Stroustrup?,C++,Bjarne Stroustrup created the C++ programming language.
+130,Technology,Easy,What does GPS stand for?,Global Positioning System,"GPS stands for Global Positioning System. It is a satellite-based navigation system that provides real-time location and positioning information to mobile devices, vehicles, and other devices."
+131,Technology,Easy,What does USB stand for?,Universal Serial Bus,"USB stands for Universal Serial Bus. It is a standard for connecting devices such as computers, smartphones, and tablets to each other."
+132,Technology,Easy,Which company developed the Android operating system?,Google,The Android operating system was developed by Google.
+133,Technology,Easy,What does SQL stand for?,Structured Query Language,"SQL (Structured Query Language) is a standardized language used for querying and manipulating data in a relational database management system (RDBMS). It is a subset of the SQL standard, which is a set of rules for defining and"
+134,Technology,Easy,What does LAN stand for?,Local Area Network,LAN stands for Local Area Network.
+135,Technology,Easy,In what year was Linux first released?,1991,Linux was first released in 1991 by Linus Torvalds.
+136,Technology,Easy,What does BIOS stand for?,Basic Input/Output System,"BIOS stands for Basic Input/Output System. It is a software component that is installed on a computer's motherboard and is responsible for controlling the hardware components of the computer. It is responsible for booting up the computer, managing"
+137,Technology,Easy,Who founded Microsoft?,Bill Gates and Paul Allen,"The founder of Microsoft is Bill Gates. He founded the company in 1975 with Paul Allen.
+
+Bill Gates was born on October 28, 1955, in Seattle, Washington. He grew"
+138,Technology,Easy,What does API stand for?,Application Programming Interface,"API stands for Application Programming Interface. It is a set of rules and guidelines that define how two applications communicate with each other. An API is a set of functions, methods, or endpoints that allow one application to interact with another application"
+139,Technology,Easy,What does ROM stand for?,Read-Only Memory,"ROM stands for Read-Only Memory. It is a type of memory that can only be accessed and modified by the computer's processor. It is used to store program code, data, and other essential information that the computer needs to function properly."
+140,Technology,Easy,Who invented the C programming language?,Dennis Ritchie,The C programming language was invented by Dennis Ritchie in 1972 while working at Bell Labs. Ritchie was a computer scientist and programmer who was working on the development of the UNIX operating system. He was
+141,Technology,Medium,Which data structure operates on a Last-In First-Out principle?,Stack,The data structure that operates on a Last-In First-Out (LIFO) principle is called a stack. A stack is a linear data structure that maintains a list of elements in reverse order. The last element added to the stack is
+142,Technology,Medium,What does the Transport Layer of the OSI model primarily handle?,End-to-end communication and error recovery,"The Transport Layer of the OSI model primarily handles the transmission of data packets between two or more devices on a network. It is responsible for establishing and maintaining the connection between the sender and the receiver, ensuring that data is transmitted"
+143,Technology,Medium,Which sorting algorithm uses divide-and-conquer and has average time complexity O(n log n)?,Merge Sort,The merge sort algorithm is a divide-and-conquer sorting algorithm that uses a divide-and-conquer approach to sort a list of elements. It has an average time complexity of O(n log n) for sorting a list of n
+144,Technology,Medium,What type of malware encrypts a victim's files and demands payment for the decryption key?,Ransomware,One type of malware that encrypts a victim's files and demands payment for the decryption key is ransomware. Ransomware encrypts a victim's files and demands payment in exchange for the decryption key
+145,Technology,Medium,Which protocol automatically assigns IP addresses to devices on a network?,Dynamic Host Configuration Protocol,"Yes, there are several protocols that automatically assign IP addresses to devices on a network. Some of the most commonly used protocols for this purpose are:
+
+1. DHCP (Dynamic Host Configuration Protocol): This protocol assigns IP"
+146,Technology,Medium,What does HTTPS stand for?,HyperText Transfer Protocol Secure,"HTTPS stands for Hypertext Transfer Protocol Secure. It is a secure version of the Hypertext Transfer Protocol (HTTP), which is used to transfer data over the internet. HTTPS encrypts the data being transmitted, making it difficult"
+147,Technology,Medium,"In object-oriented programming, what is the concept of bundling data and methods into a single unit?",Encapsulation,"In object-oriented programming (OOP), the concept of bundling data and methods into a single unit is called a class. A class is a type of object that represents a group of related data and methods. In OOP, a class"
+148,Technology,Medium,Which number system uses base 16 and includes digits 0-9 and letters A-F?,Hexadecimal,The number system that uses base 16 and includes digits 0-9 and letters A-F is called hexadecimal number system.
+149,Technology,Medium,What is the name of the storage architecture that organizes data in tables with rows and columns?,Relational database,The name of the storage architecture that organizes data in tables with rows and columns is Relational Database Management System (RDBMS).
+150,Technology,Medium,What does the acronym DNS stand for in networking?,Domain Name System,The acronym DNS stands for Domain Name System. It is a hierarchical database that maps domain names to IP addresses.
+151,Technology,Hard,What is the time complexity of binary search on a sorted array of n elements?,O(log n),The time complexity of binary search on a sorted array of n elements is O(log n). This is because binary search is a search algorithm that searches for a target value in a sorted array. The time complexity of binary search is determined by the time
+152,Technology,Hard,Which cryptographic protocol replaced SSL to provide secure communication over the internet?,TLS (Transport Layer Security),The cryptographic protocol that replaced SSL to provide secure communication over the internet is TLS (Transport Layer Security). TLS is a successor to SSL and is designed to provide stronger security and better performance than SSL. TLS is based on the SSL protocol and uses
+153,Technology,Hard,"In the CAP theorem, what do C, A, and P stand for?","Consistency, Availability, Partition tolerance","In the CAP theorem, the letters C, A, and P stand for:
+
+1. C: Consistency
+2. A: Asynchrony
+3. P: Partitioning
+
+The CAP theorem states that"
+154,Technology,Hard,Which IEEE standard defines the technical specifications for Wi-Fi networking?,IEEE 802.11,The IEEE 802.11 standard defines the technical specifications for Wi-Fi networking.
+155,Technology,Hard,How many usable host addresses exist in an IPv4 network with a /24 subnet mask?,254,The number of usable host addresses in an IPv4 network with a /24 subnet mask is 255.255.255.224. This is because the /24 subnet mask is
+156,Technology,Hard,What does ACID stand for in the context of database transactions?,"Atomicity, Consistency, Isolation, Durability","ACID stands for Atomicity, Consistency, Isolation, and Durability. In the context of database transactions, ACID refers to the principles of atomicity, consistency, isolation, and durability. These principles ensure that"
+157,Technology,Hard,Which programming paradigm treats computation as evaluation of mathematical functions and avoids changing state?,Functional programming,"The programming paradigm that treats computation as evaluation of mathematical functions and avoids changing state is called the functional programming paradigm. Functional programming emphasizes the use of functions as the fundamental building blocks of programs, and it avoids the"
+158,Technology,Hard,In which year was the RSA public-key cryptosystem first publicly described?,1977,"The RSA public-key cryptosystem was first publicly described in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman."
+159,Technology,Hard,What is the name of the attack where a malicious actor intercepts communication between two parties?,Man-in-the-middle attack,"The name of the attack where a malicious actor intercepts communication between two parties is ""man-in-the-middle"" (MITM) attack."
+160,Technology,Hard,Which data structure does Dijkstra's shortest path algorithm most efficiently use for its priority queue?,Min-heap,"Dijkstra's shortest path algorithm uses a priority queue to store the shortest paths between each pair of vertices in the graph. The priority queue is implemented using a stack data structure, which allows for efficient insertion and removal of elements."
+161,Mathematics,Easy,What is the value of pi to 2 decimal places?,3.14,The value of pi (π) to 2 decimal places is approximately 3.141592653589793238462643383279502
+162,Mathematics,Easy,What is the square root of 144?,12,"The square root of 144 is 7.
+
+The square root is the number that when multiplied by itself (in this case, 7) gives the same result as the original number. In this case, 7 times"
+163,Mathematics,Easy,What is the sum of interior angles in a triangle?,180 degrees,"The sum of interior angles in a triangle is the sum of the angles at the interior of the triangle. In a triangle with sides a, b, and c, the sum of interior angles is:
+
+- 180° (a"
+164,Mathematics,Easy,What is the next prime number after 7?,11,The next prime number after 7 is 13.
+165,Mathematics,Easy,What is 2 to the power of 10?,1024,"Yes, 2 to the power of 10 is 20."
+166,Mathematics,Easy,What theorem relates the three sides of a right triangle as a squared + b squared = c squared?,Pythagorean theorem,"The theorem that relates the three sides of a right triangle as a squared + b squared = c squared is the Pythagorean theorem. It states that for a right triangle, the square of the hypotenuse (the"
+167,Mathematics,Easy,What is the only even prime number?,2,The only even prime number is 2.
+168,Mathematics,Easy,What is the sum of the first 10 natural numbers?,55,The sum of the first 10 natural numbers is 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 30.
+169,Mathematics,Easy,What is 0 factorial equal to?,1,0 factorial is equal to 1.
+170,Mathematics,Easy,What is the formula for the area of a circle?,πr²,"The formula for the area of a circle is:
+
+A = πr^2
+
+where:
+
+- r is the radius of the circle
+- π is the mathematical constant pi (approximately 3.1"
+171,Mathematics,Easy,What number system uses base 2?,Binary,"Yes, base 2 (binary) is a number system that uses only two digits (0 and 1) to represent numbers. It is the simplest and most widely used number system.
+
+The binary system is used in various applications, including"
+172,Mathematics,Easy,What is any non-zero number raised to the power of 0?,1,"Any non-zero number raised to the power of 0 is equal to 1. Therefore, any non-zero number raised to the power of 0 is a non-zero number."
+173,Mathematics,Easy,How many sides does a heptagon have?,7,A heptagon has seven sides.
+174,Mathematics,Easy,What is the square root of 256?,16,The square root of 256 is 12.5.
+175,Mathematics,Easy,What is 12 multiplied by 12?,144,12 multiplied by 12 is 120.
+176,Mathematics,Easy,What is the perimeter formula of a rectangle?,2 times (length + width),"The perimeter of a rectangle is the sum of its four sides:
+
+1. Base: The length of the rectangle's base
+2. Height: The length of the rectangle's height
+3. Side 1: The length"
+177,Mathematics,Easy,What is the Roman numeral for 1000?,M,The Roman numeral for 1000 is XC.
+178,Mathematics,Easy,What is log base 10 of 1000?,3,"To find the log base 10 of a number, you can use the formula:
+
+log base 10 of n = log base 10 of n/10
+
+In this case, log base 10 of"
+179,Mathematics,Easy,How many degrees are in a full circle?,360,"A full circle, also known as a full turn, is 360 degrees."
+180,Mathematics,Easy,What is the formula for the area of a triangle?,half times base times height,"The formula for the area of a triangle is:
+
+A = 0.5 * (base * height)
+
+where:
+
+- A: Area of the triangle
+- base: The length of the base of the triangle
+"
+181,Mathematics,Medium,What is the derivative of sin(x) with respect to x?,cos(x),"The derivative of sin(x) with respect to x is:
+
+d(sin(x))/dx = sin'(x)
+
+where d/dx is the derivative with respect to x.
+
+In this case, d/"
+182,Mathematics,Medium,What is the sum of interior angles of a hexagon?,720 degrees,The sum of interior angles of a hexagon is 60 degrees.
+183,Mathematics,Medium,What theorem states that every polynomial equation has at least one complex root?,Fundamental Theorem of Algebra,"The theorem that states that every polynomial equation has at least one complex root is the quadratic formula. This theorem states that if a polynomial of degree n has roots x1, x2,..., xn, then the equation xi^2 +"
+184,Mathematics,Medium,What is the result of integrating 2x with respect to x?,x^2 + C,"The result of integrating 2x with respect to x is:
+
+2x + 2x^2 + 2x^3 +... + x^n = 0
+
+Therefore, the result of integrating "
+185,Mathematics,Medium,"In a normal distribution, what percentage of data falls within one standard deviation of the mean?",Approximately 68%,"In a normal distribution, the percentage of data that falls within one standard deviation of the mean is approximately 50%. This means that 50% of the data points in the distribution are within one standard deviation of the mean."
+186,Mathematics,Medium,What is the 15th term of the Fibonacci sequence?,610,The 15th term of the Fibonacci sequence is 138. The Fibonacci sequence is a sequence of numbers where each number is the sum of the two preceding ones. The first two numbers are 0 and
+187,Mathematics,Medium,What property states that the order of addition or multiplication does not change the result?,Commutative property,"The property that states that the order of addition or multiplication does not change the result is called the commutative property. This property states that if two operations are performed on two numbers, the result is the same as the result of performing the same operation on"
+188,Mathematics,Medium,What is the value of sin 30 degrees?,0.5,The value of sin 30 degrees is 0.7853981633974483.
+189,Mathematics,Medium,How many prime numbers exist between 1 and 50?,15,"There are 51 prime numbers between 1 and 50, including 1, 2, 3, 5, 7, 11, 13, 17, 19, 23"
+190,Mathematics,Medium,What is the formula for the volume of a sphere?,(4/3)πr^3,"The formula for the volume of a sphere is:
+
+V = 4πr^3
+
+Where:
+- V is the volume of the sphere
+- r is the radius of the sphere
+
+For example, if the radius"
+191,Mathematics,Hard,What is the value of Euler's number e to 5 decimal places?,2.71828,"Euler's number, also known as the Euler totient function, is defined as the number of positive integers less than or equal to a given number that are coprime to that number. The value of Euler's number e"
+192,Mathematics,Hard,Which mathematician proved that there are different sizes of infinity?,Georg Cantor,"The mathematician who proved that there are different sizes of infinity is Kurt Gödel. He proved this theorem in his 1931 paper ""On Formally Undecidable Propositions of Principia Mathematica and Beyond"
+193,Mathematics,Hard,"What is the determinant of the 2x2 matrix with rows [3,8] and [4,6]?",-14,"The determinant of the 2x2 matrix with rows [3,8] and [4,6] is:
+
+| 3 | 8 |
+| :-| :-|
+| 4 | 6 |
+
+"
+194,Mathematics,Hard,Which Indian mathematician is credited with formalizing the concept of zero as a number in the 7th century?,Brahmagupta,The Indian mathematician Aryabhata is credited with formalizing the concept of zero as a number in the 7th century. Aryabhata is also known for developing the first known mathematical system based on the concept of
+195,Mathematics,Hard,"What is the Euler characteristic formula relating vertices V, edges E, and faces F of a convex polyhedron?",V - E + F = 2,"The Euler characteristic formula relating vertices V, edges E, and faces F of a convex polyhedron is given by:
+
+Euler characteristic = sum of the number of faces minus the number of edges minus the number of vertices
+
+"
+196,Mathematics,Hard,What is the sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 + ...?,2,"The sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 +... is:
+
+1 + 1/2 + 1/4 + 1/8 +... = "
+197,Mathematics,Hard,What is the name of the number theory function that counts integers up to n that are coprime to n?,Euler's totient function,The name of the number theory function that counts integers up to n that are coprime to n is the Euclidean algorithm.
+198,Mathematics,Hard,What is the solution to dy/dx = y with initial condition y(0) = 1?,y = e^x,"To solve the differential equation dy/dx = y with initial condition y(0) = 1, we can use the method of undetermined coefficients.
+
+1. Solve the system of linear equations:
+   - y'"
+199,Mathematics,Hard,Which theorem in number theory states every integer greater than 1 is either prime or a product of primes?,Fundamental Theorem of Arithmetic,The theorem in number theory known as the Euclidean algorithm theorem states that every integer greater than 1 is either prime or a product of primes. This theorem is a fundamental result in number theory and is used to prove other theorems about prime
+200,Mathematics,Hard,What is the name of the famous unproven conjecture stating every even integer greater than 2 is the sum of two primes?,Goldbach's Conjecture,The name of the famous unproven conjecture stating every even integer greater than 2 is the sum of two primes is the Fermat's Little Theorem.

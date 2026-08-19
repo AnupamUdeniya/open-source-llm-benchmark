@@ -1,0 +1,201 @@
+﻿ID,Category,Difficulty,Question,Answer
+1,Science,Easy,What is the chemical formula for water?,H2O
+2,Science,Easy,Who discovered penicillin?,Alexander Fleming
+3,Science,Easy,What is the chemical symbol for gold?,Au
+4,Science,Easy,What planet is closest to the Sun?,Mercury
+5,Science,Easy,What is the powerhouse of the cell?,Mitochondria
+6,Science,Easy,What gas do plants absorb during photosynthesis?,Carbon dioxide (CO2)
+7,Science,Easy,What is the atomic number of carbon?,6
+8,Science,Easy,What is the approximate speed of light in a vacuum?,"299,792 km/s"
+9,Science,Easy,What is the hardest natural substance on Earth?,Diamond
+10,Science,Easy,What force keeps planets in orbit around the Sun?,Gravity
+11,Science,Easy,What is the chemical symbol for iron?,Fe
+12,Science,Easy,How many bones are in the adult human body?,206
+13,Science,Easy,What organ produces insulin in the human body?,Pancreas
+14,Science,Easy,What is the chemical formula for table salt?,NaCl
+15,Science,Easy,What is the chemical symbol for silver?,Ag
+16,Science,Easy,What is the unit of electrical resistance?,Ohm
+17,Science,Easy,What is the most abundant gas in Earth's atmosphere?,Nitrogen
+18,Science,Easy,Who proposed the theory of general relativity?,Albert Einstein
+19,Science,Easy,What is the chemical symbol for potassium?,K
+20,Science,Easy,What is the boiling point of water at sea level in Celsius?,100 degrees C
+21,Science,Medium,Which organ in the human body is responsible for filtering blood and producing urine?,Kidney
+22,Science,Medium,Which subatomic particle carries a negative electric charge?,Electron
+23,Science,Medium,What process do cells use to produce energy from glucose without oxygen?,Anaerobic respiration
+24,Science,Medium,Which layer of Earth's atmosphere contains the ozone layer?,Stratosphere
+25,Science,Medium,What type of bond holds the two strands of a DNA double helix together?,Hydrogen bonds
+26,Science,Medium,Which element has the highest electronegativity on the periodic table?,Fluorine
+27,Science,Medium,What scientific law states that energy cannot be created or destroyed?,Law of Conservation of Energy
+28,Science,Medium,Which blood type is known as the universal donor?,O negative (O-)
+29,Science,Medium,What is the term for the minimum energy required to start a chemical reaction?,Activation energy
+30,Science,Medium,Which planet has the greatest number of moons in the solar system?,Saturn
+31,Science,Hard,Which Indian scientist won the Nobel Prize in Physics in 1930?,C. V. Raman
+32,Science,Hard,What is the half-life of Carbon-14 used in radiocarbon dating?,"Approximately 5,730 years"
+33,Science,Hard,What is the name of the enzyme that unwinds the DNA double helix during replication?,Helicase
+34,Science,Hard,What quantum mechanical principle states that two fermions cannot occupy the same quantum state?,Pauli Exclusion Principle
+35,Science,Hard,Which element was discovered by the Curies in 1898 and named after Marie Curie's home country?,Polonium
+36,Science,Hard,In which year did Ernest Rutherford publish the nuclear model of the atom?,1911
+37,Science,Hard,What is the SI unit of luminous intensity?,Candela
+38,Science,Hard,Which law of thermodynamics states that the entropy of a perfect crystal at absolute zero is zero?,Third Law of Thermodynamics
+39,Science,Hard,What is the chemical name of H2SO4?,Sulfuric acid
+40,Science,Hard,Which protein complex carries out the light-dependent reactions in plant photosynthesis?,Photosystem II
+41,Geography,Easy,What is the capital of France?,Paris
+42,Geography,Easy,What is the largest continent by area?,Asia
+43,Geography,Easy,What is the longest river in the world?,Nile
+44,Geography,Easy,What is the capital of Australia?,Canberra
+45,Geography,Easy,What is the smallest country in the world?,Vatican City
+46,Geography,Easy,What is the highest mountain in the world?,Mount Everest
+47,Geography,Easy,What is the largest ocean?,Pacific Ocean
+48,Geography,Easy,What is the capital of Japan?,Tokyo
+49,Geography,Easy,What is the longest mountain range in the world?,Andes
+50,Geography,Easy,What is the capital of Brazil?,Brasilia
+51,Geography,Easy,Which country has the most natural lakes?,Canada
+52,Geography,Easy,What is the driest desert in the world?,Atacama Desert
+53,Geography,Easy,What is the capital of Germany?,Berlin
+54,Geography,Easy,What river flows through Egypt?,Nile
+55,Geography,Easy,What is the largest country by area?,Russia
+56,Geography,Easy,What is the capital of Canada?,Ottawa
+57,Geography,Easy,What is the saltiest body of water on Earth?,Dead Sea
+58,Geography,Easy,On which continent is the Sahara Desert located?,Africa
+59,Geography,Easy,What is the capital of Argentina?,Buenos Aires
+60,Geography,Easy,What is the capital of China?,Beijing
+61,Geography,Medium,Which city serves as the political and administrative capital of India?,New Delhi
+62,Geography,Medium,Which African country has the largest land area?,Algeria
+63,Geography,Medium,Which strait separates the continents of Europe and Africa?,Strait of Gibraltar
+64,Geography,Medium,Which country is entirely surrounded by South Africa?,Lesotho
+65,Geography,Medium,Which river forms the border between the United States and Mexico?,Rio Grande
+66,Geography,Medium,"In which ocean is the Mariana Trench, the deepest point on Earth, located?",Pacific Ocean
+67,Geography,Medium,Which two countries share the longest international border in the world?,Canada and United States
+68,Geography,Medium,What is the name of the world's largest hot desert?,Sahara Desert
+69,Geography,Medium,What type of tectonic plate boundary is where two plates move apart from each other?,Divergent boundary
+70,Geography,Medium,Which continent has the most countries?,Africa
+71,Geography,Hard,What is the narrow land bridge that connects North America and South America called?,Isthmus of Panama
+72,Geography,Hard,Which city is the seat of government and located at the highest altitude among national capitals?,"La Paz, Bolivia"
+73,Geography,Hard,What is the name of the deepest lake in the world?,Lake Baikal
+74,Geography,Hard,Which Indian state has the longest coastline?,Gujarat
+75,Geography,Hard,What ocean current keeps Western Europe warmer than its latitude would suggest?,Gulf Stream
+76,Geography,Hard,Which country has the most time zones in the world?,France
+77,Geography,Hard,Which volcanic archipelago inspired Charles Darwin's theory of evolution?,Galapagos Islands
+78,Geography,Hard,Through how many countries does the River Danube flow?,10 countries
+79,Geography,Hard,What is the name of the body of water between India and Sri Lanka?,Palk Strait
+80,Geography,Hard,Which desert covers most of the Mongolian Plateau and parts of northern China?,Gobi Desert
+81,History,Easy,In what year did World War II end?,1945
+82,History,Easy,Who was the first President of the United States?,George Washington
+83,History,Easy,In what year did the French Revolution begin?,1789
+84,History,Easy,Who was the first person to walk on the Moon?,Neil Armstrong
+85,History,Easy,In what year did India gain independence from Britain?,1947
+86,History,Easy,In what year did World War I begin?,1914
+87,History,Easy,Who was the first Emperor of China?,Qin Shi Huang
+88,History,Easy,What year did the Berlin Wall fall?,1989
+89,History,Easy,Who invented the telephone?,Alexander Graham Bell
+90,History,Easy,In what year did Christopher Columbus reach the Americas?,1492
+91,History,Easy,What was the first artificial satellite launched into space?,Sputnik 1
+92,History,Easy,Who was the first female Prime Minister of the United Kingdom?,Margaret Thatcher
+93,History,Easy,In what year was the United Nations founded?,1945
+94,History,Easy,What was the capital of the Byzantine Empire?,Constantinople
+95,History,Easy,In what year did the Titanic sink?,1912
+96,History,Easy,What ancient civilization built Machu Picchu?,Inca civilization
+97,History,Easy,Who wrote the Communist Manifesto?,Karl Marx and Friedrich Engels
+98,History,Easy,Who was the first woman to win a Nobel Prize?,Marie Curie
+99,History,Easy,In what year did the American Civil War end?,1865
+100,History,Easy,What year was the Eiffel Tower completed?,1889
+101,History,Medium,Which treaty formally ended World War I?,Treaty of Versailles
+102,History,Medium,In which year did the Russian Revolution bring the Bolsheviks to power?,1917
+103,History,Medium,Which Indian independence leader led the Indian National Army and was known as Netaji?,Subhas Chandra Bose
+104,History,Medium,What was the name of the first written legal code issued by a Babylonian king?,Code of Hammurabi
+105,History,Medium,In which year was the Magna Carta signed?,1215
+106,History,Medium,Which battle in 1757 established British dominance in India?,Battle of Plassey
+107,History,Medium,Who was the last Mughal Emperor of India?,Bahadur Shah Zafar II
+108,History,Medium,Which country was the first to grant women the right to vote nationally?,New Zealand (1893)
+109,History,Medium,Which empire ruled from Constantinople for nearly a thousand years after the fall of Rome?,Byzantine Empire
+110,History,Medium,Which US President announced the policy of containment against Soviet expansion after World War II?,Harry S. Truman
+111,History,Hard,In what year did the Battle of Panipat establish the Mughal Empire in India?,1526
+112,History,Hard,Which Mauryan emperor converted to Buddhism after the Kalinga War?,Ashoka
+113,History,Hard,"What was the code name of the Allied invasion of Normandy on June 6, 1944?",Operation Overlord
+114,History,Hard,Which Indian mathematician worked with G.H. Hardy at Cambridge and formulated theorems in number theory?,Srinivasa Ramanujan
+115,History,Hard,In what year was the Indian National Congress founded?,1885
+116,History,Hard,Which Chinese dynasty built the majority of the present Great Wall of China?,Ming Dynasty
+117,History,Hard,What was the name of the policy of racial segregation enforced in South Africa until 1994?,Apartheid
+118,History,Hard,Who was the first Secretary-General of the United Nations?,Trygve Lie
+119,History,Hard,In which year did the Ottoman Empire dissolve and the Republic of Turkey be proclaimed?,1923
+120,History,Hard,What was the name of the American plan to provide economic aid to Western Europe after World War II?,Marshall Plan
+121,Technology,Easy,Who invented the World Wide Web?,Tim Berners-Lee
+122,Technology,Easy,What does CPU stand for?,Central Processing Unit
+123,Technology,Easy,Who created the Python programming language?,Guido van Rossum
+124,Technology,Easy,What does HTML stand for?,HyperText Markup Language
+125,Technology,Easy,In what year was the first iPhone released?,2007
+126,Technology,Easy,What does RAM stand for?,Random Access Memory
+127,Technology,Easy,Who co-founded Apple with Steve Jobs?,Steve Wozniak
+128,Technology,Easy,What does URL stand for?,Uniform Resource Locator
+129,Technology,Easy,What programming language was created by Bjarne Stroustrup?,C++
+130,Technology,Easy,What does GPS stand for?,Global Positioning System
+131,Technology,Easy,What does USB stand for?,Universal Serial Bus
+132,Technology,Easy,Which company developed the Android operating system?,Google
+133,Technology,Easy,What does SQL stand for?,Structured Query Language
+134,Technology,Easy,What does LAN stand for?,Local Area Network
+135,Technology,Easy,In what year was Linux first released?,1991
+136,Technology,Easy,What does BIOS stand for?,Basic Input/Output System
+137,Technology,Easy,Who founded Microsoft?,Bill Gates and Paul Allen
+138,Technology,Easy,What does API stand for?,Application Programming Interface
+139,Technology,Easy,What does ROM stand for?,Read-Only Memory
+140,Technology,Easy,Who invented the C programming language?,Dennis Ritchie
+141,Technology,Medium,Which data structure operates on a Last-In First-Out principle?,Stack
+142,Technology,Medium,What does the Transport Layer of the OSI model primarily handle?,End-to-end communication and error recovery
+143,Technology,Medium,Which sorting algorithm uses divide-and-conquer and has average time complexity O(n log n)?,Merge Sort
+144,Technology,Medium,What type of malware encrypts a victim's files and demands payment for the decryption key?,Ransomware
+145,Technology,Medium,Which protocol automatically assigns IP addresses to devices on a network?,Dynamic Host Configuration Protocol
+146,Technology,Medium,What does HTTPS stand for?,HyperText Transfer Protocol Secure
+147,Technology,Medium,"In object-oriented programming, what is the concept of bundling data and methods into a single unit?",Encapsulation
+148,Technology,Medium,Which number system uses base 16 and includes digits 0-9 and letters A-F?,Hexadecimal
+149,Technology,Medium,What is the name of the storage architecture that organizes data in tables with rows and columns?,Relational database
+150,Technology,Medium,What does the acronym DNS stand for in networking?,Domain Name System
+151,Technology,Hard,What is the time complexity of binary search on a sorted array of n elements?,O(log n)
+152,Technology,Hard,Which cryptographic protocol replaced SSL to provide secure communication over the internet?,TLS (Transport Layer Security)
+153,Technology,Hard,"In the CAP theorem, what do C, A, and P stand for?","Consistency, Availability, Partition tolerance"
+154,Technology,Hard,Which IEEE standard defines the technical specifications for Wi-Fi networking?,IEEE 802.11
+155,Technology,Hard,How many usable host addresses exist in an IPv4 network with a /24 subnet mask?,254
+156,Technology,Hard,What does ACID stand for in the context of database transactions?,"Atomicity, Consistency, Isolation, Durability"
+157,Technology,Hard,Which programming paradigm treats computation as evaluation of mathematical functions and avoids changing state?,Functional programming
+158,Technology,Hard,In which year was the RSA public-key cryptosystem first publicly described?,1977
+159,Technology,Hard,What is the name of the attack where a malicious actor intercepts communication between two parties?,Man-in-the-middle attack
+160,Technology,Hard,Which data structure does Dijkstra's shortest path algorithm most efficiently use for its priority queue?,Min-heap
+161,Mathematics,Easy,What is the value of pi to 2 decimal places?,3.14
+162,Mathematics,Easy,What is the square root of 144?,12
+163,Mathematics,Easy,What is the sum of interior angles in a triangle?,180 degrees
+164,Mathematics,Easy,What is the next prime number after 7?,11
+165,Mathematics,Easy,What is 2 to the power of 10?,1024
+166,Mathematics,Easy,What theorem relates the three sides of a right triangle as a squared + b squared = c squared?,Pythagorean theorem
+167,Mathematics,Easy,What is the only even prime number?,2
+168,Mathematics,Easy,What is the sum of the first 10 natural numbers?,55
+169,Mathematics,Easy,What is 0 factorial equal to?,1
+170,Mathematics,Easy,What is the formula for the area of a circle?,πr²
+171,Mathematics,Easy,What number system uses base 2?,Binary
+172,Mathematics,Easy,What is any non-zero number raised to the power of 0?,1
+173,Mathematics,Easy,How many sides does a heptagon have?,7
+174,Mathematics,Easy,What is the square root of 256?,16
+175,Mathematics,Easy,What is 12 multiplied by 12?,144
+176,Mathematics,Easy,What is the perimeter formula of a rectangle?,2 times (length + width)
+177,Mathematics,Easy,What is the Roman numeral for 1000?,M
+178,Mathematics,Easy,What is log base 10 of 1000?,3
+179,Mathematics,Easy,How many degrees are in a full circle?,360
+180,Mathematics,Easy,What is the formula for the area of a triangle?,half times base times height
+181,Mathematics,Medium,What is the derivative of sin(x) with respect to x?,cos(x)
+182,Mathematics,Medium,What is the sum of interior angles of a hexagon?,720 degrees
+183,Mathematics,Medium,What theorem states that every polynomial equation has at least one complex root?,Fundamental Theorem of Algebra
+184,Mathematics,Medium,What is the result of integrating 2x with respect to x?,x^2 + C
+185,Mathematics,Medium,"In a normal distribution, what percentage of data falls within one standard deviation of the mean?",Approximately 68%
+186,Mathematics,Medium,What is the 15th term of the Fibonacci sequence?,610
+187,Mathematics,Medium,What property states that the order of addition or multiplication does not change the result?,Commutative property
+188,Mathematics,Medium,What is the value of sin 30 degrees?,0.5
+189,Mathematics,Medium,How many prime numbers exist between 1 and 50?,15
+190,Mathematics,Medium,What is the formula for the volume of a sphere?,(4/3)πr^3
+191,Mathematics,Hard,What is the value of Euler's number e to 5 decimal places?,2.71828
+192,Mathematics,Hard,Which mathematician proved that there are different sizes of infinity?,Georg Cantor
+193,Mathematics,Hard,"What is the determinant of the 2x2 matrix with rows [3,8] and [4,6]?",-14
+194,Mathematics,Hard,Which Indian mathematician is credited with formalizing the concept of zero as a number in the 7th century?,Brahmagupta
+195,Mathematics,Hard,"What is the Euler characteristic formula relating vertices V, edges E, and faces F of a convex polyhedron?",V - E + F = 2
+196,Mathematics,Hard,What is the sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 + ...?,2
+197,Mathematics,Hard,What is the name of the number theory function that counts integers up to n that are coprime to n?,Euler's totient function
+198,Mathematics,Hard,What is the solution to dy/dx = y with initial condition y(0) = 1?,y = e^x
+199,Mathematics,Hard,Which theorem in number theory states every integer greater than 1 is either prime or a product of primes?,Fundamental Theorem of Arithmetic
+200,Mathematics,Hard,What is the name of the famous unproven conjecture stating every even integer greater than 2 is the sum of two primes?,Goldbach's Conjecture

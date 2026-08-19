@@ -1,0 +1,393 @@
+ID,Category,Difficulty,Question,GroundTruth,Prediction
+1,Science,Easy,Wat is teh chemicla forumla for water?,H2O,The chemical formula for water is H₂O.
+2,Science,Easy,Hwo discovred penciillin?,Alexander Fleming,"Penicillin was discovered by Alexander Fleming in 1928. Here's the key information about its discovery:
+
+1. Background: In the early 1920s, Alexander Fleming was working at St. Mary's Hospital in London"
+3,Science,Easy,Waht is teh chemicla symol for goldd?,Au,The chemical symbol for gold is Au.
+4,Science,Easy,Waht plannet is closset to teh Sun?,Mercury,The planet closest to the Sun is Mercury.
+5,Science,Easy,Waht is teh powerhuose of teh cell?,Mitochondria,"It seems like there was a typo in your question. The correct term should be ""the powerhouse of the cell."" This refers to the mitochondria, which are often called the ""powerhouses"" of the cell because they generate most of the cell's"
+6,Science,Easy,Waht gaz do plantes absrob druing photosynthesis?,Carbon dioxide (CO2),"During photosynthesis, plants absorb several gases from the atmosphere. The primary gases they absorb are:
+
+1. Carbon dioxide (CO₂): This is the main gas that plants use to produce glucose through the Calvin cycle.
+
+2. Water (H₂O"
+7,Science,Easy,Waht is teh atomci numbber of carbon?,6,The atomic number of carbon is 6.
+8,Science,Easy,Waht is teh approxiamate spede of ligth in a vaccum?,"299,792 km/s","The approximate speed of light in a vacuum is about 299,792,458 meters per second (m/s). This value is often rounded to 300,000,000 m/s for"
+9,Science,Easy,Waht is teh hardest naturel substanse on Erth?,Diamond,"Determining the ""hardest natural substance"" can be somewhat subjective and depends on how you define hardness. However, based on widely accepted scientific criteria, diamond is generally considered to be the hardest naturally occurring substance.
+
+Diamonds are composed of pure carbon atoms"
+10,Science,Easy,Waht fource keeps plannets in orbitt around teh Sun?,Gravity,"The force that keeps planets in orbit around the Sun is gravity. Specifically, it's Newtonian gravity, which is described by Sir Isaac Newton's law of universal gravitation. According to this law:
+
+1. Every particle of matter in the universe attracts"
+11,Science,Easy,Waht is teh chemicla symol for iorn?,Fe,The chemical symbol for iron is Fe.
+12,Science,Easy,How meny bonnes are in teh adlut humna body?,206,"I'm sorry, but the question ""How many bonnes are in the adult human body?"" is not clear and doesn't have a meaningful answer. It seems to be a mix-up of words. 
+
+In an adult human body, there are approximately"
+13,Science,Easy,Waht orgna producse insullin in teh humna body?,Pancreas,"Insulin is primarily produced in the human body by specialized cells called beta cells, which are located within the Islets of Langerhans. These cells are found inside the pancreas, a glandular organ that plays a crucial role in regulating blood"
+14,Science,Easy,Waht is teh chemicla forumla for tabel salt?,NaCl,"Tabel salt, also known as sodium chloride (NaCl) in its pure form, has the chemical formula NaCl. This formula represents one sodium atom (Na) and one chlorine atom (Cl) bonded together.
+
+When referring to ""tabel"
+15,Science,Easy,Waht is teh chemicla symol for sivler?,Ag,The chemical symbol for silver is Ag.
+16,Science,Easy,Waht is teh unti of electircal resitance?,Ohm,The unit of electrical resistance is the ohm (Ω). This was named after the German physicist Georg Ohm.
+17,Science,Easy,Waht is teh moost abondant gaz in Eath's atmopshere?,Nitrogen,"The most abundant gas in Earth's atmosphere is nitrogen (N₂). Nitrogen makes up about 78% of the Earth's atmosphere by volume. Oxygen (O₂) is the second most abundant gas, making up about 21%"
+18,Science,Easy,Hwo porposed teh thoery of generel relativity?,Albert Einstein,"The theory of general relativity was proposed by Albert Einstein in 1915. Here's a brief overview of how it came about:
+
+1. **Special Theory of Relativity (1905)**: Before the general theory, Einstein"
+19,Science,Easy,Waht is teh chemicla symol for potasium?,K,The chemical symbol for potassium is K.
+20,Science,Easy,Waht is teh boilng poing of watre at sea levle in Celsius?,100 degrees C,"The boiling point of water at sea level is 100 degrees Celsius. This temperature is measured under standard atmospheric conditions, which include an air pressure of 1 atmosphere (approximately 101.325 kilopascals) and"
+21,Science,Medium,Whcih orgna in teh humna body is reponsible for filteirng bllod and producng urine?,Kidney,The organ responsible for filtering blood and producing urine in the human body is the kidney.
+22,Science,Medium,Whcih subatomci particel carreis a negtive electirc charge?,Electron,The subatomic particle that carries a negative electric charge is the electron.
+23,Science,Medium,Waht proccess do cells us to prodcue enregy form glucsoe withuot oxygne?,Anaerobic respiration,"Cells use a process called **glycolysis** to produce energy from glucose without the need for oxygen. This process occurs in the cytoplasm of the cell and does not require oxygen. Here's a brief overview of how glycolysis works:
+
+"
+24,Science,Medium,Whcih layre of Eath's atmosphree contians teh ozone layar?,Stratosphere,"The ozone layer is primarily found in the stratosphere of Earth's atmosphere. Specifically, it is located at an altitude range of about 10 to 50 kilometers (6 to 31 miles) above the surface. This layer is"
+25,Science,Medium,Waht typ of bند holsd teh two strands of a DNA dubble helxi togther?,Hydrogen bonds,"In a DNA double helix, the two strands are held together by hydrogen bonds between the complementary base pairs (adenine with thymine, and cytosine with guanine) and through covalent bonds within each individual strand (specifically"
+26,Science,Medium,Whcih elemnt has teh highets electronegatvity on teh periodci tabel?,Fluorine,"The element with the highest electronegativity on the periodic table is Francium (Fr). However, it's important to note that Francium is one of the rarest elements and is not found naturally on Earth; it must be produced in a"
+27,Science,Medium,Waht scientifc law statse that enregy canot be creatd or destoryed?,Law of Conservation of Energy,"The scientific law that states that energy cannot be created or destroyed is known as the First Law of Thermodynamics, also referred to as the Law of Conservation of Energy.
+
+This principle is fundamental in physics and explains that energy can only be transformed from one form"
+28,Science,Medium,Whcih bllod typ is knwon as teh univresal donur?,O negative (O-),The blood type known as the universal donor is Type O. Individuals with Type O blood have an ABO blood group system that does not express either the A or B antigens on their red blood cells. This makes them compatible for transfusions with recipients
+29,Science,Medium,Waht is teh trm for teh minimun enregy reqiured to strat a chemicla reactoin?,Activation energy,"The term you're looking for is ""activation energy."" Activation energy is the minimum amount of energy required for a chemical reaction to occur. It represents the energy barrier that must be overcome for reactant molecules to transition into products."
+30,Science,Medium,Whcih plannet has teh greatst numbber of mooons in teh solar sytsem?,Saturn,"In the Solar System, Jupiter has the greatest number of moons. It has 79 confirmed moons as of my last update. The other gas giants—Saturn, Uranus, and Neptune—have significantly fewer moons compared to Jupiter. Saturn has"
+31,Science,Hard,Whcih Indain scientsit won teh Nobeel Przie in Phyics in 1930?,C. V. Raman,"I'm sorry for any confusion, but there seems to be an error in your question. There was no Nobel Prize awarded in Physics in 1930. The Nobel Prizes were not established until 1901, and thus it"
+32,Science,Hard,Waht is teh half-lief of Carbon-14 usde in radiocarbn datng?,"Approximately 5,730 years","The half-life of Carbon-14 used in radiocarbon dating is approximately 5730 years. This means that after every 5730 years, half of the Carbon-14 in a sample will have decayed into"
+33,Science,Hard,Waht is teh naem of teh enzime taht unwinds teh DNA dubble helxi durng replicaton?,Helicase,The enzyme that unwinds the DNA double helix during replication is called helicase. Helicase helps to separate the two strands of the DNA molecule so that DNA polymerases can access and replicate them.
+34,Science,Hard,Waht quantm mechnaical princpile statse taht two ferminos canot ocupy teh saem quantm satte?,Pauli Exclusion Principle,"The principle you're referring to is known as the **Pauli Exclusion Principle**. This quantum mechanical principle states that no two fermions (particles with half-integer spin, such as electrons) can occupy the same quantum state simultaneously within a quantum"
+35,Science,Hard,Whcih elemnt was discovred by teh Cuires in 1898 and namd aftar Marie Curie's hoem cuntry?,Polonium,"The element discovered by the Curies in 1898 and named after Marie Curie's homeland (Poland) is Polonium (Po). Marie Skłodowska Curie, along with her husband Pierre Curie, conducted research"
+36,Science,Hard,In whcih yer did Ernset Ruthreford pubilsh teh nuclera modl of teh atmo?,1911,Ernest Rutherford published his nuclear model of the atom in 1911. This model was a significant advancement in our understanding of atomic structure and is often referred to as the Rutherford model or the planetary model. He proposed this model after
+37,Science,Hard,Waht is teh SI unti of luminuos intensty?,Candela,The SI unit of luminous intensity is the candela (cd).
+38,Science,Hard,Whcih law of thermdynamics statse taht teh entorpy of a prefect crystl at absolte zero is zero?,Third Law of Thermodynamics,"The law of thermodynamics that states that the entropy of a perfect crystal at absolute zero (0 K) is zero is the third law of thermodynamics.
+
+The third law of thermodynamics can be stated as follows:
+
+""The entropy of a perfect crystalline"
+39,Science,Hard,Waht is teh chemicla naem of H2SO4?,Sulfuric acid,The chemical name of H₂SO₄ is sulfuric acid.
+40,Science,Hard,Whcih proteien compelx carreis out teh light-dependnt reactoins in plnat photosyntehsis?,Photosystem II,The light-dependent reactions of photosynthesis are carried out by the thylakoid membranes of the chloroplasts in plant cells. These reactions specifically involve several protein complexes and pigments that capture light energy and convert it into chemical energy in the form of
+41,Geography,Easy,Waht is teh captial of Farnce?,Paris,The capital of France is Paris.
+42,Geography,Easy,Waht is teh largets continnet by arae?,Asia,The largest continent by area is Asia.
+43,Geography,Easy,Waht is teh longset rivr in teh wrold?,Nile,"The longest river in the world is the Nile River, which spans approximately 6,650 kilometers (4,132 miles) from its source to its mouth. It flows through eleven countries: Tanzania, Uganda, Rwanda, Burundi"
+44,Geography,Easy,Waht is teh captial of Australai?,Canberra,The capital of Australia is Canberra.
+45,Geography,Easy,Waht is teh smallset cuntry in teh wrold?,Vatican City,"There isn't a universally agreed-upon ""smallest country"" due to the varying definitions of what constitutes a country. However, if we consider countries based on land area, the smallest sovereign state in the world is Vatican City (also known as the"
+46,Geography,Easy,Waht is teh highset montain in teh wrold?,Mount Everest,"The highest mountain in the world is Mount Everest. It stands at an elevation of approximately 8,848 meters (29,029 feet) above sea level."
+47,Geography,Easy,Waht is teh largets oceean?,Pacific Ocean,"The largest ocean is the Pacific Ocean. It covers about 63 million square miles (163 million square kilometers) and extends over an area that includes parts of five continents: North America, South America, Europe, Asia, and Australia."
+48,Geography,Easy,Waht is teh captial of Japna?,Tokyo,The capital of Japan is Tokyo.
+49,Geography,Easy,Waht is teh longset mountian ragne in teh wrold?,Andes,"The longest mountain range in the world is the Andes Mountains. They stretch over 7,000 kilometers (4,350 miles) and run along the western coast of South America, from north to south. This makes them the"
+50,Geography,Easy,Waht is teh captial of Brzail?,Brasilia,The capital of Brazil is Brasília.
+51,Geography,Easy,Whcih cuntry has teh moost naturel laeks?,Canada,"There isn't a single country that has the most natural lakes in the world. The number of lakes can vary significantly between countries due to factors such as geography, climate, and geological history.
+
+For example:
+
+- **Canada**: Known for its vast network"
+52,Geography,Easy,Waht is teh driest desret in teh wrold?,Atacama Desert,"The driest desert in the world by average annual precipitation is the Atacama Desert, which spans parts of Chile and Peru. However, it's important to note that there are other extremely arid regions around the world that can be considered among the"
+53,Geography,Easy,Waht is teh captial of Germny?,Berlin,The capital of Germany is Berlin.
+54,Geography,Easy,Waht rivr flowes thrugh Egytp?,Nile,The river that flows through Egypt is the Nile River. The Nile is the longest river in the world and plays a crucial role in the geography and history of Egypt. It originates in East Africa and traverses much of Egypt before emptying into the Mediterranean
+55,Geography,Easy,Waht is teh largets cuntry by arae?,Russia,"The largest country by area in the world is Russia. It covers an enormous landmass of approximately 17,098,246 square kilometers (6,601,670 square miles)."
+56,Geography,Easy,Waht is teh captial of Canadda?,Ottawa,The capital of Canada is Ottawa.
+57,Geography,Easy,Waht is teh saltiest bodi of watre on Erth?,Dead Sea,"The saltiest body of water on Earth is the Red Sea. However, it's important to note that the Dead Sea is even saltier and is considered the most saline body of water on Earth. The salinity of the Dead Sea can reach up"
+58,Geography,Easy,On whcih contiennt is teh Sahara Desret locatd?,Africa,The Sahara Desert is located in Africa.
+59,Geography,Easy,Waht is teh captial of Argentnia?,Buenos Aires,The capital of Argentina is Buenos Aires.
+60,Geography,Easy,Waht is teh captial of Chnia?,Beijing,The capital of China is Beijing.
+61,Geography,Medium,Whcih citi servse as teh politcal and adminstrative captial of Indai?,New Delhi,The political and administrative capital of India is New Delhi.
+62,Geography,Medium,Whcih Africna cuntry has teh largets land arae?,Algeria,"The country with the largest land area in Africa is Algeria. However, it's important to note that the definition of ""land area"" can sometimes include areas like lakes and rivers, which might not be considered part of a country's territory. Nonetheless,"
+63,Geography,Medium,Whcih strat seprrates teh continents of Eruope and Africna?,Strait of Gibraltar,"The strait that separates Europe and Africa is the Strait of Gibraltar. It's a narrow waterway located at the southern entrance to the Mediterranean Sea, connecting it to the Atlantic Ocean. The Strait is about 14 kilometers (8.7 miles"
+64,Geography,Medium,Whcih cuntry is entirly surrounedd by Suth Africa?,Lesotho,"There is no country that is entirely surrounded by South Africa. South Africa is a landlocked country, meaning it does not have any coastline and is completely surrounded by other countries. 
+
+The countries that border South Africa from north to south are:
+
+1."
+65,Geography,Medium,Whcih rivr froms teh bordr betwen teh Unitd Staets and Mexcio?,Rio Grande,The river that forms the border between the United States and Mexico is the Rio Grande (also known as the Rio Bravo in some areas).
+66,Geography,Medium,"In whcih oceean is teh Mariana Trecnh, teh deepst poitn on Erth, locatd?",Pacific Ocean,"The Mariana Trench is located in the Pacific Ocean. Specifically, it reaches its deepest point, known as the Challenger Deep, near the Mariana Islands in the western Pacific Ocean."
+67,Geography,Medium,Whcih two cuntries shar teh longset internatonal bordr in teh wrold?,Canada and United States,"The two countries with the longest international border in the world are Russia and Canada. Their land border is approximately 5,500 kilometers (3,420 miles) long. This border stretches from the Atlantic Ocean in the east to the"
+68,Geography,Medium,Waht is teh naem of teh wrold's largets hot desret?,Sahara Desert,"There isn't a widely recognized ""world's largest desert"" in the traditional sense. Deserts are defined by their arid conditions and low precipitation levels, but there isn't a single desert that can be universally considered the largest.
+
+However, if we"
+69,Geography,Medium,Waht typ of tectonicl plat boundry is wher two plats mov aprat from eachother?,Divergent boundary,"The type of tectonic plate boundary where two plates move apart from each other is called a divergent boundary. At these boundaries, the Earth's crust splits open and new crust is formed as magma rises from the mantle to fill the gap, creating"
+70,Geography,Medium,Whcih contiennt has teh moost cuntries?,Africa,"Asia is the continent that has the most countries. As of 2023, there are 54 recognized sovereign states in Asia. However, it's important to note that some regions or territories may claim independence but are not universally recognized as"
+71,Geography,Hard,Waht is teh narow land bridg taht conects Norht Amrica and Suth Amrica callde?,Isthmus of Panama,"The narrow land bridge that connects North America and South America is called the Isthmus of Panama. This land bridge played a crucial role in the interchange of species between the two continents, known as the Great American Interchange, during the Pleistocene"
+72,Geography,Hard,Whcih citi is teh seet of goverment and locatd at teh highset altitued amnog nationl captials?,"La Paz, Bolivia","The city that is both the seat of government and located at the highest altitude among national capitals is La Paz, Bolivia.
+
+La Paz is the administrative capital of Bolivia, while Sucre serves as the constitutional capital. La Paz is situated at an elevation of"
+73,Geography,Hard,Waht is teh naem of teh deepst laek in teh wrold?,Lake Baikal,"There isn't a universally agreed-upon ""deepest lake"" in the world. The depth of lakes can vary significantly and depends on specific measurements taken at different times. However, Lake Baikal in Russia is often considered one of the deepest lakes in"
+74,Geography,Hard,Whcih Indain statte has teh longset coastlnie?,Gujarat,"The Indian state with the longest coastline is Maharashtra. However, it's important to note that Maharashtra shares its coastline with two other states:
+
+1. Goa (which is also part of Maharashtra's administrative division)
+2. Karnataka
+
+Together, these three states"
+75,Geography,Hard,Waht oceean curent kepes Westrn Eruope warmre than its latitued wuold suggset?,Gulf Stream,"The ocean current that keeps Western Europe warmer than its latitude would suggest is the **North Atlantic Drift**, also known as the Gulf Stream.
+
+The North Atlantic Drift is a warm ocean current originating from the Gulf of Mexico and the Caribbean Sea. It"
+76,Geography,Hard,Whcih cuntry has teh moost tiem zones in teh wrold?,France,"There isn't a single country that has the most time zones in the world. However, the United States is known for having the largest number of time zones among countries. The U.S. spans across 9 time zones: Eastern Time Zone, Central"
+77,Geography,Hard,Whcih volcanc archipelgo inspirde Chalres Darwin's thoery of evolutoin?,Galapagos Islands,"Charles Darwin's theory of evolution was significantly influenced by his observations during the voyage of the HMS Beagle, which included visits to the Galápagos Islands. The unique species he encountered on these islands, including finches with different beak shapes and"
+78,Geography,Hard,Thrugh how meny cuntries dose teh Rivr Dnaube flwo?,10 countries,"The Rhine-Danube-Main river system, often referred to simply as the Danube, flows through 10 countries in Europe:
+
+1. Germany
+2. Austria
+3. Slovakia
+4. Hungary
+5. Croatia
+6"
+79,Geography,Hard,Waht is teh naem of teh bodi of watre betwen Indai and Sri Lnaka?,Palk Strait,The body of water between India and Sri Lanka is the Palk Strait. It connects the Bay of Bengal to the Gulf of Mannar and the Lakshadweep Sea. The Palk Strait is also part of the larger Indian Ocean.
+80,Geography,Hard,Whcih desret covrse moost of teh Mongolain Plataeu and prts of northren Chnia?,Gobi Desert,"The Tibetan Plateau, also known as the Qinghai-Tibet Plateau or the Qingzang Plateau, is the region that most covers parts of the Mongolian Plateau and northern China. 
+
+The Tibetan Plateau is the world's"
+81,History,Easy,In waht yer did Wrold War II edn?,1945,"World War II ended in September 1945 with the surrender of Japan following the atomic bombings of Hiroshima and Nagasaki and the United States's announcement of the successful testing of the first nuclear weapon.
+
+Key events that marked the end of World"
+82,History,Easy,Hwo was teh frist Presedint of teh Unitd Staets?,George Washington,"The first President of the United States was George Washington. He served from April 30, 1789, to March 4, 1797."
+83,History,Easy,In waht yer did teh Frnech Revolutoin begni?,1789,"The French Revolution began in 1789. It started with the famous storming of the Bastille on July 14, 1789, which is now celebrated as France's National Day. This event marked the beginning of"
+84,History,Easy,Hwo was teh frist persn to wlak on teh Mone?,Neil Armstrong,"The first person to walk on the Moon was Neil Armstrong, who did so as part of the Apollo 11 mission on July 20, 1969. He famously said, ""That's one small step for man, one"
+85,History,Easy,In waht yer did Indai gain independnce from Britian?,1947,"India gained independence from Britain on August 15, 1947. This was a significant moment in the history of India and the Indian subcontinent. The process leading to this independence was complex and involved various political movements and negotiations.
+
+The"
+86,History,Easy,In waht yer did Wrold War I begni?,1914,"World War I began in 1914, primarily in the region of Europe known as the Balkans. The war is often considered to have started on July 28, 1914, with the assassination of Archduke"
+87,History,Easy,Hwo was teh frist Emporer of Chnia?,Qin Shi Huang,"The first emperor of China is traditionally considered to be Yu the Great, who lived around 2070-1994 BC. However, it's important to note that the unification of China into a single empire occurred much later in"
+88,History,Easy,Waht yer did teh Berlni Wall fal?,1989,"The Berlin Wall fell on November 9, 1989. This historic event marked the end of the Cold War division between East and West Germany. Here's a brief summary:
+
+1. **Background**: The Berlin Wall was built in "
+89,History,Easy,Hwo inventd teh telepohne?,Alexander Graham Bell,"The telephone was not invented by a single person, but rather developed through the contributions of many individuals over time. Here's a brief overview of its invention:
+
+1. **Alexander Graham Bell**: Often credited as the inventor of the telephone, Alexander Graham Bell"
+90,History,Easy,In waht yer did Christophr Columubs reach teh Amricas?,1492,"Christopher Columbus reached the Americas on October 12, 1492. He was sailing for the Spanish royal family and landed in what is now the Bahamas, believing he had arrived in the East Indies (part of Asia). This event marked"
+91,History,Easy,Waht was teh frist artifcial satelite launchd into spac?,Sputnik 1,"The first artificial satellite launched into Earth's orbit was Sputnik 1, which was launched by the Soviet Union on October 4, 1957. This event marked the beginning of the Space Age and was a significant moment in the"
+92,History,Easy,Hwo was teh frist femael Prmie Ministre of teh Unitd Kindom?,Margaret Thatcher,"The first female Prime Minister of the United Kingdom is Margaret Thatcher, who served from 1979 to 1990."
+93,History,Easy,In waht yer was teh Unitd Natinos foundde?,1945,"The United Nations (UN) was founded in 1945. It was established on October 24 of that year through the signing of the UN Charter by representatives of 50 countries. The signing took place in San Francisco, California"
+94,History,Easy,Waht was teh captial of teh Byzantne Emprie?,Constantinople,"The capital of the Byzantine Empire was Constantinople, which is now known as Istanbul in modern times."
+95,History,Easy,In waht yer did teh Titnaic sinc?,1912,"I apologize, but there seems to be a typo in your question. It appears you meant to ask about the Titanic and its sinking. The Titanic was a British passenger liner that sank in the North Atlantic Ocean on April 15, 19"
+96,History,Easy,Waht anccient civliization bulit Machu Pichu?,Inca civilization,Machu Picchu was not built by any ancient civilization in the way you might think. It is actually a 15th-century Incan citadel located on a mountain ridge above the Sacred Valley in Peru. The Incas began construction of Mach
+97,History,Easy,Hwo wroet teh Communsit Manifsto?,Karl Marx and Friedrich Engels,"I believe you meant to ask ""How was the Communist Manifesto written?"" The Communist Manifesto was written by Karl Marx and Friedrich Engels in 1848. It was published in February of that year. Marx and Engels wrote it"
+98,History,Easy,Hwo was teh frist womna to wni a Nobeel Przie?,Marie Curie,"There has not been a woman who has won the Nobel Prize in any of the categories (Physics, Chemistry, Medicine, Literature, Peace, or Economic Sciences) as of my last update in 2023. The Nobel Prizes have been"
+99,History,Easy,In waht yer did teh Amercian Civl War edn?,1865,"The American Civil War ended with the surrender of the Confederate forces on April 9, 1865, at Appomattox Court House in Virginia. The key figure in this surrender was Robert E. Lee, the commander of the Confederate"
+100,History,Easy,Waht yer was teh Eiffel Towre completd?,1889,"The Eiffel Tower was completed in 1889. Specifically:
+
+- It was designed by Gustave Eiffel and his engineer company.
+- Construction began on January 28, 1887.
+- The tower was"
+101,History,Medium,Whcih treayt formlaly endde Wrold War I?,Treaty of Versailles,"World War I officially ended with the signing of the Treaty of Versailles on June 28, 1919, in the Palace of Versailles outside Paris, France. This treaty was signed between representatives of Germany and the Allied Powers ("
+102,History,Medium,In whcih yer did teh Russain Revolutoin brign teh Bolshevkis to powre?,1917,"The Russian Revolution that brought the Bolsheviks to power occurred in 1917. Specifically:
+
+- **February Revolution (March in the Gregorian calendar)**: This took place in February/March 1917 (Old Style/Jul"
+103,History,Medium,Whcih Indain independnce leadre led teh Indain Nationl Army and was knwon as Netaji?,Subhas Chandra Bose,The Indian National Army leader known as Netaji was Subhas Chandra Bose. He led the Azad Hind Fauj (Free India Regiment) during World War II. Bose was a prominent Indian nationalist and one of the key figures in the Indian
+104,History,Medium,Waht was teh naem of teh frist writtn legla code issudd by a Babylonain kign?,Code of Hammurabi,There is no historical record of a legal code being written by a Babylonian king. The earliest known written legal codes in ancient Mesopotamia were the Code of Ur-Nammu (circa 21st century BCE) and the Code of
+105,History,Medium,In whcih yer was teh Magna Carta signde?,1215,"The Magna Carta was signed in 1215. Specifically, it was sealed on June 15, 1215, at Runnymede, a meadow by the River Thames in Windsor Forest, near Windsor,"
+106,History,Medium,Whcih battlle in 1757 establshd Britsh dominanec in Indai?,Battle of Plassey,"The battle that established British dominance in India in 1757 was the Battle of Plassey.
+
+The Battle of Plassey took place on June 23, 1757, near the town of Palashi (now"
+107,History,Medium,Hwo was teh last Mughal Emporer of Indai?,Bahadur Shah Zafar II,The last Mughal Emperor of India was Bahadur Shah Zafar II. He ruled from 1837 until the fall of Delhi in 1857 during the Indian Rebellion of 1857 (also known
+108,History,Medium,Whcih cuntry was teh frist to grnat womne teh rigt to vote nationlaly?,New Zealand (1893),The first country to grant women the right to vote nationally was New Zealand in 1893. This makes New Zealand the first country in the world to give women universal suffrage (the right to vote for all adult women). Women in New
+109,History,Medium,Whcih emprie rulde from Constantnople for nearely a thousnd yeras aftre teh fal of Rome?,Byzantine Empire,The empire that ruled from Constantinople for nearly a thousand years after the fall of Rome was the Byzantine Empire. It was founded in 330 AD when Emperor Constantine moved the capital of the Roman Empire to Constantinople (modern-day Istanbul
+110,History,Medium,Whcih US Presedint announcde teh polciy of containmnet agianst Soveit expansoin aftre Wrold War II?,Harry S. Truman,"The policy of containment against Soviet expansion after World War II was primarily announced and implemented by President Harry S. Truman. This policy was articulated in his ""Truman Doctrine"" speech on March 12, 1947.
+
+The Truman Doctrine"
+111,History,Hard,In waht yer did teh Battlle of Panipat establsh teh Mughal Emprie in Indai?,1526,"The Battle of Panipat was a pivotal event that played a significant role in establishing the Mughal Empire in India, but it didn't directly establish the empire. Instead, it helped consolidate power and secure the region for the Mughals.
+
+"
+112,History,Hard,Whcih Mauryan emporer convertd to Buddhsim aftre teh Kalinga War?,Ashoka,"The Mauryan emperor who converted to Buddhism after the Kalinga War was Ashoka the Great.
+
+Ashoka was the third Mauryan emperor, who ruled from 268 BCE to 232 BCE. He is known for"
+113,History,Hard,"Waht was teh code naem of teh Alleid invasoin of Normadny on Jnue 6, 1944?",Operation Overlord,"The Allied invasion of Normandy on June 6, 1944, is also known as D-Day. The code name for this significant military operation was ""Operation Overlord."""
+114,History,Hard,Whcih Indain mathemtician workde with G.H. Hardy at Cambrdige and formulatd theorms in numbrer thoery?,Srinivasa Ramanujan,"The Indian mathematician who worked with G. H. Hardy at Cambridge and formulated significant theorems in number theory was Srinivasa Ramanujan.
+
+Ramanujan made substantial contributions to mathematical analysis, number theory, infinite series,"
+115,History,Hard,In whcih yer was teh Indain Nationl Congrses foundde?,1885,The Indian National Congress was founded in 1885. It is India's oldest and largest political party and played a pivotal role in the Indian independence movement from British rule.
+116,History,Hard,Whcih Chinse dynastty bulit teh majoritty of teh preesnt Greet Wall of Chnia?,Ming Dynasty,"The majority of the present Great Wall of China was built during the Ming Dynasty (1368-1644). However, it's important to note that the construction of the Great Wall has a much longer history and has been expanded and"
+117,History,Hard,Waht was teh naem of teh polciy of racial segregatoin enforcde in Suth Africna untl 1994?,Apartheid,The policy of racial segregation enforced in South Africa until 1994 was called apartheid. Apartheid was a system of institutionalized racial segregation and discrimination that began in the 1940s under the National Party government and lasted until
+118,History,Hard,Hwo was teh frist Secretry-Genreal of teh Unitd Natinos?,Trygve Lie,The first Secretary-General of the United Nations was Trygve Lie from Norway. He served from October 1945 to August 1952.
+119,History,Hard,In whcih yer did teh Otoman Emprie disolve and teh Republci of Turkye be proclamied?,1923,"The Ottoman Empire officially dissolved in 1922, but the Republic of Turkey was proclaimed on October 29, 1923. This date marks the establishment of the Republic of Turkey under Mustafa Kemal Atatürk as its first"
+120,History,Hard,Waht was teh naem of teh Amercian plan to provdie economci aid to Westrn Eruope aftre Wrold War II?,Marshall Plan,"The American plan you're referring to is known as the Marshall Plan. Named after Secretary of State George C. Marshall, it was an initiative launched in 1948 to provide economic assistance to Western European countries that had been devastated by World War"
+121,Technology,Easy,Hwo inventd teh Wrold Wdie Web?,Tim Berners-Lee,"The World Wide Web was not invented by a single person, but rather it evolved over time through the contributions of many individuals and organizations. The concept of a global information space where documents could be linked together was first proposed by Tim Berners-Lee in"
+122,Technology,Easy,Waht does CPU stnad for?,Central Processing Unit,"CPU stands for Central Processing Unit. It is the primary component in a computer responsible for executing instructions and performing calculations. Here are some key points about CPUs:
+
+1. Core Function: The CPU processes data and executes instructions according to the software programs running on"
+123,Technology,Easy,Hwo creatd teh Pythno programmign languege?,Guido van Rossum,"The Python programming language was not ""created"" by a single person, but rather developed over time by a community of developers and enthusiasts. Here's a brief overview of its development:
+
+1. Early Development: Python was first conceived in the late 1"
+124,Technology,Easy,Waht does HTML stnad for?,HyperText Markup Language,HTML stands for HyperText Markup Language. It is the standard markup language used for creating web pages and other information that can be displayed in a web browser. HTML describes the structure of a web page semantically and originally included a subset of plain text elements
+125,Technology,Easy,In waht yer was teh frist iPhoen releasde?,2007,The first iPhone was released in 2007.
+126,Technology,Easy,Waht does RAM stnad for?,Random Access Memory,"RAM stands for Random Access Memory. It is a type of computer memory that can be read from and written to at any time, hence the term ""random access."" When you start your computer or open an application, data is loaded into RAM so that"
+127,Technology,Easy,Hwo co-founedd Appel with Stev Jobs?,Steve Wozniak,"Apple was founded by Steve Jobs and Steve Wozniak, along with Ronald Wayne. However, Steve Jobs and Steve Wozniak are the most well-known co-founders of Apple Inc.
+
+Ronald Wayne initially joined the team in 1"
+128,Technology,Easy,Waht does URL stnad for?,Uniform Resource Locator,"URL stands for ""Uniform Resource Locator."" It is the address of a web page or any resource on the internet. A typical URL includes several components:
+
+1. **Protocol**: This specifies how to access the resource (e.g., HTTP, HTTPS).
+"
+129,Technology,Easy,Waht programmign languege was creatd by Bjarne Stroutsrup?,C++,Bjarne Stroustrup created the programming language C++.
+130,Technology,Easy,Waht does GPS stnad for?,Global Positioning System,"GPS stands for Global Positioning System. It is a satellite-based navigation system that provides location and time information in all weather, anywhere on or near the Earth, where there is an unobstructed line of sight to four or more GPS satellites."
+131,Technology,Easy,Waht does USB stnad for?,Universal Serial Bus,"USB stands for Universal Serial Bus. It is a widely used standard for connecting and communicating electronic devices in a computer system. Introduced in 1996, USB has evolved significantly since its inception to support various data transfer rates and power delivery capabilities.
+
+"
+132,Technology,Easy,Whcih compny developd teh Androdi operatign sytsem?,Google,"The Android operating system was developed by Google, Inc. Initially, Android was an open-source project within Google, but as of 2019, it has become a proprietary product of Alphabet, Inc., which is the parent company of Google."
+133,Technology,Easy,Waht does SQL stnad for?,Structured Query Language,"SQL stands for Structured Query Language. It is a special-purpose programming language designed for interacting with relational databases to create, read, update, and delete data. SQL is widely used in database management systems to manage and manipulate data stored in tables or relations"
+134,Technology,Easy,Waht does LAN stnad for?,Local Area Network,"LAN stands for Local Area Network. It is a network that connects devices over a limited area, such as a home, office, or school. Devices in a LAN can communicate with each other directly, and the network typically operates within a single building or"
+135,Technology,Easy,In waht yer was Linuex frist releasde?,1991,"Linux first released in September 1991. The initial version, known as Linux 0.01, was created by Linus Torvalds. It was based on Minix and aimed to create a kernel for an experimental operating system"
+136,Technology,Easy,Waht does BIOS stnad for?,Basic Input/Output System,BIOS stands for Basic Input/Output System. It is a firmware that serves as the initial program that runs when a computer starts up and initializes the hardware components of a computer system. The BIOS contains essential code to perform tasks such as initializing hardware devices
+137,Technology,Easy,Hwo founedd Microsofft?,Bill Gates and Paul Allen,"Microsoft was founded on April 4, 1975, by Bill Gates and Paul Allen in Albuquerque, New Mexico. The company started as a software development company and has since grown into one of the largest technology companies in the world."
+138,Technology,Easy,Waht does API stnad for?,Application Programming Interface,API stands for Application Programming Interface. It is a set of rules and protocols for building software applications. APIs define how different software components should interact with each other to exchange data or perform specific tasks. They allow different systems and applications to communicate and share information
+139,Technology,Easy,Waht does ROM stnad for?,Read-Only Memory,ROM stands for Read-Only Memory. It is a type of non-volatile memory that retains its stored data even when the power is turned off. This makes it ideal for storing essential system files and boot programs that need to be accessible without needing to
+140,Technology,Easy,Hwo inventd teh C programmign languege?,Dennis Ritchie,"The C programming language was not invented by a single person, but rather developed over time through the contributions of many individuals. Here's a brief overview of its development:
+
+1. **B Language**: Dennis Ritchie, while working at Bell Labs in the"
+141,Technology,Medium,Whcih datta structrue operatse on a Last-In Frist-Out principel?,Stack,"The data structure that operates on a Last-In-First-Out (LIFO) principle is called a **stack**.
+
+A stack follows the Last-In-First-Out (LIFO) principle, which means the last element added to the stack will be"
+142,Technology,Medium,Waht does teh Transprot Layre of teh OSI modl primairly hnadle?,End-to-end communication and error recovery,"In the OSI (Open Systems Interconnection) model, the Transport Layer primarily handles the reliable transfer of data between applications across a network. Here are some key responsibilities of the Transport Layer:
+
+1. **Segmentation and Reassembly**: The Transport Layer breaks"
+143,Technology,Medium,Whcih sortign algorithmm uses divdie-and-conqure and has averge tiem complexty O(n log n)?,Merge Sort,"The sorting algorithm that uses divide-and-conquer and has an average time complexity of \(O(n \log n)\) is **Merge Sort**.
+
+Here's a brief overview of why Merge Sort fits this description:
+
+1. **Divide-and-Con"
+144,Technology,Medium,Waht typ of malwrae encryptts a victm's filles and demannds payemnt for teh decryptoin kye?,Ransomware,"Malware that encrypts a victim's files and demands payment for the decryption key is commonly known as ransomware. This type of malware is designed to lock down a user's data, making it inaccessible, and then demands payment (usually in cryptocurrency like"
+145,Technology,Medium,Whcih protocl automaticaly assings IP addreses to devces on a netwrok?,Dynamic Host Configuration Protocol,"The protocol that automatically assigns IP addresses to devices on a network is DHCP (Dynamic Host Configuration Protocol).
+
+Here's a brief overview of how DHCP works:
+
+1. **DHCP Server**: A DHCP server is responsible for assigning IP addresses and other network configuration"
+146,Technology,Medium,Waht does HTTPS stnad for?,HyperText Transfer Protocol Secure,"HTTPS stands for Hypertext Transfer Protocol Secure. It is an extension of the standard HTTP protocol used to transfer data over the internet. The ""S"" in HTTPS stands for ""Secure,"" and it adds encryption to the HTTP protocol to ensure that all data"
+147,Technology,Medium,"In objcet-oreineted programmign, waht is teh concpet of bundlign datta and methdos into a snigle unti?",Encapsulation,"In Objective-C, the concept of bundling data and methods into a single unit is primarily achieved through the use of classes and objects. This is fundamental to object-oriented programming (OOP) in Objective-C.
+
+### Classes and Objects
+
+1. **"
+148,Technology,Medium,Whcih numbrer sytsem usess base 16 and incldes digts 0-9 and lettres A-F?,Hexadecimal,"The numbering system that uses base 16 and includes digits 0-9 and letters A-F is called hexadecimal (often abbreviated as ""hex"").
+
+Hexadecimal is commonly used in computing and digital systems because it provides a more compact way to represent binary"
+149,Technology,Medium,Waht is teh naem of teh stoarge arcitecthure taht organzes datta in tbles with rowss and columms?,Relational database,"The storage architecture that organizes data in tables with rows and columns is known as **Relational Database Management System (RDBMS)** or simply **Relational Database**.
+
+In an RDBMS, data is stored in one or more databases,"
+150,Technology,Medium,Waht does teh acornym DNS stnad for in netwroking?,Domain Name System,"The acronym DNS stands for Domain Name System. In networking, DNS is a crucial service that translates human-readable domain names (like ""alibabacloud.com"") into IP addresses (such as 192.0.2.1) that computers"
+151,Technology,Hard,Waht is teh tiem complexty of bniary serach on a sortd arry of n elemennts?,O(log n),"The time complexity of binary search on a sorted array of \( n \) elements is \( O(\log n) \).
+
+Here's a brief explanation:
+
+1. **Binary Search Process**: 
+   - Binary search works by repeatedly dividing the search interval"
+152,Technology,Hard,Whcih cryptogrphic protocl replacd SSL to provdie secrue communicaton ovr teh internt?,TLS (Transport Layer Security),"The cryptographic protocol that replaced SSL (Secure Sockets Layer) to provide secure communication over the internet is TLS (Transport Layer Security). TLS is the successor and updated version of SSL, designed to address security vulnerabilities found in SSL. TLS is widely used for"
+153,Technology,Hard,"In teh CAP theroem, waht do C, A, and P stnad for?","Consistency, Availability, Partition tolerance","I apologize for the confusion, but there seems to be a typo in your question. The correct acronym is ""CAP Theorem,"" not ""CAP theroem."" In distributed systems theory, the CAP Theorem is named after its three key properties:
+
+"
+154,Technology,Hard,Whcih IEEE standrad defnes teh technicla specificatons for Wi-Fi netwroking?,IEEE 802.11,"The IEEE standard that defines the technical specifications for Wi-Fi networking is IEEE 802.11. This series of standards covers various aspects of wireless local area networks (WLANs), including the physical layer (PHY) and media access control"
+155,Technology,Hard,How meny usabel host addreses exsit in an IPv4 netwrok with a /24 subnte maks?,254,"In an IPv4 network with a subnet mask of `/24`, the total number of usable IP addresses is 254.
+
+Here's how we calculate this:
+
+- An IPv4 address consists of 32 bits.
+- A `/2"
+156,Technology,Hard,Waht does ACID stnad for in teh contxet of databse transactinos?,"Atomicity, Consistency, Isolation, Durability","In the context of database transactions, ACID stands for Atomicity, Consistency, Isolation, and Durability. These properties ensure that database operations are performed reliably and consistently:
+
+1. **Atomicity**: This property ensures that all operations within a"
+157,Technology,Hard,Whcih programmign paradigm trets computaion as evaluaion of mathemtical functons and avoids changign statte?,Functional programming,"The programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state is known as **Functional Programming**.
+
+In functional programming, programs are built using functions that do not have side effects. This means that functions take inputs and produce outputs without"
+158,Technology,Hard,In whcih yer was teh RSA publci-kye cryptosytsem frist publicaly describde?,1977,"The RSA public-key cryptosystem was first publicly described in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman. Their seminal paper ""A Method for Obtaining Digital Signatures and Public-Key Cryptos"
+159,Technology,Hard,Waht is teh naem of teh attck wher a malcious actr intercpets communicaton betwen two partiis?,Man-in-the-middle attack,"The attack you're referring to is called **Man-in-the-Middle (MitM)** attack.
+
+In a Man-in-the-Middle attack, an attacker intercepts and possibly alters the communication between two parties who believe they are directly communicating with each other"
+160,Technology,Hard,Whcih datta structrue does Dijkstra's shortset phat algorithim moost efficinetly use for its priorty quee?,Min-heap,Dijkstra's Shortest Path algorithm most efficiently uses a **priority queue** to find the shortest path in a graph. A priority queue is essential because it allows the algorithm to always process the next unvisited vertex with the smallest tentative distance (or lowest
+161,Mathematics,Easy,Waht is teh vaule of pi to 2 deciml places?,3.14,The value of pi (π) to 2 decimal places is 3.14.
+162,Mathematics,Easy,Waht is teh squrae root of 144?,12,The square root of 144 is 12.
+163,Mathematics,Easy,Waht is teh sum of interoir angles in a trianle?,180 degrees,The sum of the interior angles in any triangle is always 180 degrees (or π radians). This is a fundamental property of triangles in Euclidean geometry.
+164,Mathematics,Easy,Waht is teh nxt priem numbber aftre 7?,11,The next prime number after 7 is 11.
+165,Mathematics,Easy,Waht is 2 to teh powre of 10?,1024,2 to the power of 10 is 1024.
+166,Mathematics,Easy,Waht theroem relatse teh thre sides of a rigt trianle as a squred + b squred = c squred?,Pythagorean theorem,"The theorem you're referring to is known as the Pythagorean Theorem. It states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of"
+167,Mathematics,Easy,Waht is teh onyl evn priem numbber?,2,"There is no single even prime number other than 2. By definition, a prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. The number 2 is the only even prime number because"
+168,Mathematics,Easy,Waht is teh sum of teh frist 10 naturel numbbers?,55,"The first 10 natural numbers are: 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10.
+
+To find the sum of these numbers, you"
+169,Mathematics,Easy,Waht is 0 factoiral equla to?,1,"The factorial operation is typically defined for non-negative integers. For any positive integer \( n \), the factorial \( n! \) is the product of all positive integers less than or equal to \( n \). Mathematically, it's expressed as"
+170,Mathematics,Easy,Waht is teh forumla for teh arae of a circel?,πr²,"The formula for the area of a circle is given by:
+
+\[ A = \pi r^2 \]
+
+Where:
+- \( A \) is the area of the circle.
+- \( r \) is the radius of the circle.
+- \("
+171,Mathematics,Easy,Waht numbber sytsem usess base 2?,Binary,The number system that uses base 2 is the binary number system.
+172,Mathematics,Easy,Waht is anny non-zeor numbber raisde to teh powre of 0?,1,Any non-zero number raised to the power of 0 is equal to 1. This is a fundamental rule in mathematics.
+173,Mathematics,Easy,How meny sids dose a heptaogn hav?,7,"A heptagon has seven sides. The term ""hepta-"" in geometry typically refers to something with seven parts or sides. So, a heptagon is a polygon with seven sides and seven angles."
+174,Mathematics,Easy,Waht is teh squrae root of 256?,16,The square root of 256 is 16.
+175,Mathematics,Easy,Waht is 12 multipied by 12?,144,12 multiplied by 12 equals 144.
+176,Mathematics,Easy,Waht is teh perimter forumla of a rectnagle?,2 times (length + width),"The perimeter formula for a rectangle is given by:
+
+\[ \text{Perimeter} = 2 \times (\text{length} + \text{width}) \]
+
+If you denote the length of the rectangle as \( l \) and the"
+177,Mathematics,Easy,Waht is teh Romna numerla for 1000?,M,"In Roman numerals, the symbol for 1000 is M."
+178,Mathematics,Easy,Waht is lgo base 10 of 1000?,3,"In base 10 (which is the decimal system we commonly use), the number 1000 is already represented as ""1000"". The prefix ""log"" typically refers to logarithms, which are not directly related to the"
+179,Mathematics,Easy,How meny degeres are in a fll circl?,360,A full circle contains 360 degrees.
+180,Mathematics,Easy,Waht is teh forumla for teh arae of a trianle?,half times base times height,"The formula for the area of a triangle is given by:
+
+\[ \text{Area} = \frac{1}{2} \times \text{base} \times \text{height} \]
+
+In this formula:
+- The ""base"
+181,Mathematics,Medium,Waht is teh derivtive of sin(x) with respct to x?,cos(x),"The derivative of \(\sin(x)\) with respect to \(x\) is \(\cos(x)\).
+
+This is a fundamental result in calculus. If you have any more questions or need further explanations, feel free to ask!"
+182,Mathematics,Medium,Waht is teh sum of interoir angles of a hexaogn?,720 degrees,"To find the sum of the interior angles of a hexagon, we can use a formula that applies to any polygon:
+
+The sum of the interior angles \( S \) of a polygon with \( n \) sides is given by:
+\[ S ="
+183,Mathematics,Medium,Waht theroem statse taht evrey polynomila equatoin has at laest one compelx root?,Fundamental Theorem of Algebra,"The theorem you are referring to is known as the Fundamental Theorem of Algebra. This theorem states that every non-constant single-variable polynomial equation with complex coefficients has at least one complex root.
+
+More specifically, it can be stated as follows:
+
+**Fund"
+184,Mathematics,Medium,Waht is teh resutl of integratng 2x with respct to x?,x^2 + C,"To integrate \(2x\) with respect to \(x\), you apply the basic rules of integration. The integral of \(2x\) can be found as follows:
+
+\[
+\int 2x \, dx = 2 \int x"
+185,Mathematics,Medium,"In a normla distributoin, waht percentge of datta falls withn one standrad deviatoin of teh mena?",Approximately 68%,"In a normal distribution, approximately 68% of the data falls within one standard deviation of the mean. This is a well-known property of the normal distribution and can be derived from the empirical rule (also known as the 68-9"
+186,Mathematics,Medium,Waht is teh 15th trm of teh Fibonaci sequnce?,610,"The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. The sequence goes: 0, 1, 1, 2, 3, 5"
+187,Mathematics,Medium,Waht proprty statse taht teh ordre of additoin or multiplicatoin dose not chnage teh resutl?,Commutative property,"The property that states that the order of addition or multiplication does not change the result is known as the **commutative property**.
+
+For addition, it is expressed as:
+\[ a + b = b + a \]
+
+For multiplication, it is"
+188,Mathematics,Medium,Waht is teh vaule of sin 30 degeres?,0.5,"The value of \(\sin 30^\circ\) is \(0.5\) or \(\frac{1}{2}\).
+
+This is a well-known trigonometric value and can be derived from the properties of a 30-"
+189,Mathematics,Medium,How meny priem numbbers exsit betwen 1 and 50?,15,"To determine how many prime numbers exist between 1 and 50, we need to identify all the prime numbers within that range.
+
+A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself"
+190,Mathematics,Medium,Waht is teh forumla for teh volmue of a sphre?,(4/3)πr^3,"The formula for the volume \( V \) of a sphere is given by:
+
+\[ V = \frac{4}{3} \pi r^3 \]
+
+Where:
+- \( V \) is the volume,
+- \( r \) is"
+191,Mathematics,Hard,Waht is teh vaule of Eulre's numbber e to 5 deciml places?,2.71828,"The value of Euler's number \( e \) to 5 decimal places is:
+
+\[ e \approx 2.71828 \]"
+192,Mathematics,Hard,Whcih mathemtician provde taht thre are diffrent sizse of infinty?,Georg Cantor,"The mathematician who provided the concept that there are different sizes (or ""cardinalities"") of infinity is Georg Cantor. He introduced this idea in the late 19th century and developed set theory to formalize it.
+
+Cantor's"
+193,Mathematics,Hard,"Waht is teh determinnt of teh 2x2 matirx with rowss [3,8] and [4,6]?",-14,"To find the determinant of a 2x2 matrix, you can use the formula:
+
+\[
+\text{Determinant} = ad - bc
+\]
+
+For a matrix \(\begin{bmatrix} a & b \\ c & d"
+194,Mathematics,Hard,Whcih Indain mathemtician is creditd with formalizng teh concpet of zeor as a numbber in teh 7th centrey?,Brahmagupta,The Indian mathematician credited with formalizing the concept of zero as a number in the 7th century is Brahmagupta. Brahmagupta was an astronomer and mathematician who lived from approximately 598 to 66
+195,Mathematics,Hard,"Waht is teh Eulre characteristc forumla relatng vertiecs V, edgse E, and faecs F of a convex polyhedorn?",V - E + F = 2,"The characteristic formula that relates the number of vertices \( V \), edges \( E \), and faces \( F \) of a convex polyhedron is known as Euler's formula. The formula states:
+
+\[ V - E + F = 2"
+196,Mathematics,Hard,Waht is teh sum of teh infintie geometrc seriess 1 + 1/2 + 1/4 + 1/8 + ...?,2,The given series \(1 + \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \cdots\) is an example of an infinite geometric series where the first term \(a = 
+197,Mathematics,Hard,Waht is teh naem of teh numbber thoery functoin taht conuts integres up to n taht are coprime to n?,Euler's totient function,"The function you're referring to is called the **Euler's Totient Function**, often denoted as \(\phi(n)\). This function counts the number of integers up to \(n\) that are coprime (i.e., have no"
+198,Mathematics,Hard,Waht is teh solutoin to dy/dx = y wiht initail conditoin y(0) = 1?,y = e^x,"The differential equation you've provided is a first-order linear ordinary differential equation (ODE):
+
+\[ \frac{dy}{dx} = y \]
+
+with the initial condition:
+
+\[ y(0) = 1 \]
+
+To solve this, we can"
+199,Mathematics,Hard,Whcih theroem in numbber thoery statse evrey integre graetr than 1 is eithr priem or a prodcut of priems?,Fundamental Theorem of Arithmetic,"The theorem you are referring to is known as the Fundamental Theorem of Arithmetic. However, it's important to note that this theorem does not directly state that every integer greater than 1 is either prime or a product of primes. Instead, it states"
+200,Mathematics,Hard,Waht is teh naem of teh famouus unproven conjectrue statng evrey evn integre gretar than 2 is teh sum of two priems?,Goldbach's Conjecture,"The famous unsolved conjecture you're referring to is known as the **Twin Prime Conjecture**. However, the specific conjecture about every even integer greater than 2 being the sum of two primes (which is actually a statement related"
