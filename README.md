@@ -114,7 +114,7 @@ Noise testing evaluates resilience to imperfect user input, which is a common co
 | GPU | NVIDIA RTX 4060 8GB VRAM |
 | OS | Windows |
 
-All models were loaded and evaluated in full precision (float16) on the GPU. The 8GB VRAM constraint was a key factor in selecting models under 4B parameters.
+All models were evaluated using FP16 (float16) inference on the GPU. The 8GB VRAM constraint was a key factor in selecting models under 4B parameters.
 
 **5.2 Software**
 
@@ -217,7 +217,7 @@ Robustness experiments were conducted on Qwen2.5-1.5B-Instruct and Qwen2.5-3B-In
 | Qwen2.5-1.5B-Instruct | 80.5% | 78.0% | 73.5% |
 | Qwen2.5-3B-Instruct | 80.5% | 78.0% | 80.5% |
 
-Both models show a consistent degradation pattern moving from original to paraphrase to noise conditions, with noise producing the largest performance drop in both cases.
+Qwen2.5-1.5B shows a consistent degradation from original to paraphrase to noise conditions, while Qwen2.5-3B recovers its original accuracy under noisy input after a 2.5 percentage-point drop under paraphrasing.
 
 ---
 
@@ -353,8 +353,8 @@ Qwen2.5-1.5B outperformed Qwen2.5-3B on the overall benchmark (80.5% vs 76.5%), 
 **F2 — Mathematics represents a consistent failure mode at small scale.**
 All three models underperformed on the Mathematics category relative to other domains. TinyLlama-1.1B scored only 25.0%, and even Qwen2.5-1.5B reached only 65.0%, suggesting that formal and numerical reasoning remains a significant weakness for models below 4B parameters.
 
-**F3 — Input variation degrades performance systematically.**
-Both Qwen models showed monotonic accuracy decline moving from original to paraphrase to noise conditions. This indicates that performance on clean benchmarks overestimates real-world reliability.
+**F3 — Input variation affects the two Qwen models differently.** 
+Qwen2.5-1.5B shows a monotonic accuracy decline from original to paraphrase to noise conditions, while Qwen2.5-3B returns to its original accuracy under noisy input. This highlights that robustness does not necessarily decrease monotonically with increasing input corruption.
 
 **F4 — Robustness to noise scales with model size.**
 Qwen2.5-3B showed zero accuracy drop under noisy input conditions (0.0%), while Qwen2.5-1.5B dropped by 7.0%. This suggests that larger models within the same family develop stronger noise tolerance, even when overall accuracy is comparable.
